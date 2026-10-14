@@ -1,0 +1,64 @@
+:root{
+  --bg:#fffaf8;
+  --surface:#ffffff;
+  --text:#2d2626;
+  --muted:#726767;
+  --line:#eadfdb;
+  --accent:#e65a78;
+  --accent-dark:#ba3455;
+  --accent-soft:#ffe6ed;
+  --shadow:0 10px 30px rgba(80,40,50,.08);
+  --radius:18px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans JP","Hiragino Kaku Gothic ProN",Meiryo,sans-serif;background:var(--bg);color:var(--text);line-height:1.8}
+a{color:inherit}
+.container{width:min(1120px,calc(100% - 32px));margin:auto}
+header{position:sticky;top:0;z-index:20;background:rgba(255,250,248,.94);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.nav{min-height:66px;display:flex;align-items:center;justify-content:space-between;gap:20px}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;font-weight:800;font-size:1.2rem}
+.brand img{width:34px;height:34px}
+nav{display:flex;gap:18px;flex-wrap:wrap}
+nav a{text-decoration:none;color:var(--muted);font-size:.94rem;font-weight:700}
+nav a:hover{color:var(--accent-dark)}
+.hero{padding:72px 0 52px;background:radial-gradient(circle at 85% 10%,#ffd9e5 0,transparent 30%),linear-gradient(180deg,#fff8fb 0,#fffaf8 100%)}
+.eyebrow{display:inline-block;background:var(--accent-soft);color:var(--accent-dark);padding:6px 12px;border-radius:999px;font-size:.86rem;font-weight:800}
+h1,h2,h3{line-height:1.35;margin:0 0 .65em}
+h1{font-size:clamp(2rem,6vw,4.2rem);letter-spacing:-.04em;max-width:850px}
+h2{font-size:clamp(1.55rem,3.8vw,2.35rem);letter-spacing:-.02em}
+h3{font-size:1.12rem}
+.lead{font-size:1.08rem;color:var(--muted);max-width:760px}
+.cta-row{display:flex;gap:12px;flex-wrap:wrap;margin-top:28px}
+.btn{display:inline-block;text-decoration:none;padding:12px 18px;border-radius:12px;font-weight:800;border:1px solid var(--line);background:var(--surface)}
+.btn.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+section{padding:52px 0}
+.section-head{display:flex;align-items:end;justify-content:space-between;gap:24px;margin-bottom:22px}
+.section-head p{max-width:620px;color:var(--muted);margin:0}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:22px;box-shadow:var(--shadow);text-decoration:none;display:block}
+.card:hover{transform:translateY(-2px);transition:.2s ease}
+.card .tag{font-size:.78rem;font-weight:800;color:var(--accent-dark);background:var(--accent-soft);padding:4px 8px;border-radius:999px;display:inline-block;margin-bottom:10px}
+.card p{margin:0;color:var(--muted);font-size:.94rem}
+.two-col{display:grid;grid-template-columns:1.6fr .8fr;gap:28px;align-items:start}
+.article{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:clamp(22px,4vw,42px);box-shadow:var(--shadow)}
+.article h2{margin-top:1.65em;padding-top:.25em;border-top:1px solid var(--line)}
+.article h3{margin-top:1.4em}
+.article .intro{font-size:1.04rem;color:var(--muted)}
+.note{background:#fff3f6;border-left:4px solid var(--accent);padding:14px 16px;border-radius:10px;margin:20px 0}
+.checklist{padding-left:1.25rem}
+.checklist li{margin:.35rem 0}
+.toc{background:#fff9fb;border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin:24px 0}
+.toc a{color:var(--accent-dark)}
+.sidebar{position:sticky;top:90px}
+.sidebox{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:18px;margin-bottom:16px}
+.sidebox ul{padding-left:1.1rem;margin:.4rem 0}
+.meta{color:var(--muted);font-size:.88rem;margin-bottom:20px}
+.breadcrumbs{font-size:.86rem;color:var(--muted);padding:20px 0 0}
+footer{margin-top:40px;border-top:1px solid var(--line);padding:32px 0 46px;color:var(--muted);font-size:.88rem}
+footer .links{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px}
+footer a{color:var(--muted)}
+.ad-note{font-size:.78rem;color:var(--muted);border:1px dashed var(--line);border-radius:10px;padding:10px 12px;margin:12px 0}
+@media(max-width:820px){
+  nav{display:none}.grid{grid-template-columns:1fr}.two-col{grid-template-columns:1fr}.sidebar{position:static}.hero{padding-top:48px}.section-head{display:block}.section-head p{margin-top:10px}
+}
