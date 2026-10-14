@@ -1,7 +1,13 @@
-デートコンパス更新第1弾
-1. ZIPを解凍する。
-2. GitHubの goonyogunyo-prog/date-compass を開く。
-3. Add file → Upload files から shinjuku-date-course.html のみをリポジトリ直下へアップロードし、Commit changes。
-4. https://goonyogunyo-prog.github.io/date-compass/shinjuku-date-course.html が表示されるか確認。
-5. Google Search ConsoleのURL検査で上記URLを検査し、必要に応じてインデックス登録をリクエスト。
-※この更新は新規記事1ページの追加のみ。トップページやsitemap.xmlへのリンク追加は次回更新で対応する。
+KKday広告導入パック（2026-10-15）
+
+アップロードするファイル：student-date.html、date-spots.html
+GitHubリポジトリ: https://github.com/goonyogunyo-prog/date-compass
+2つとも既存ファイルと同名で上書きしてください。
+index.html、Google確認ファイル、sitemap.xmlは変更しません。
+
+公開後に確認するURL:
+https://goonyogunyo-prog.github.io/date-compass/student-date.html
+https://goonyogunyo-prog.github.io/date-compass/date-spots.html
+
+Search Console: 既存URLの更新なのでサイトマップ再送信は不要。必要なら上記2URLを検査し、インデックス登録をリクエスト。
+広告リンクは提供されたA8.netコードのリンク先と計測用1px画像を維持しています。提携条件を確認してください。
