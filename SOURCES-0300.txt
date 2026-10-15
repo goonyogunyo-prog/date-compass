@@ -1,0 +1,14 @@
+2026-10-16追加分の主要な一次情報・公式観光案内
+================================================
+茨城県観光いばらき： https://www.ibarakiguide.jp/special/ibaraki_major_spot.html
+大洗観光協会： https://www.oarai-info.jp/spot/
+アクアワールド茨城県大洗水族館： https://www.aquaworld-oarai.com/
+茨城県 大洗公園： https://www.pref.ibaraki.jp/doboku/kogai/kikaku/ooarai_park.html
+日光市観光協会： https://www.visitnikko.jp/en/spots/nikko-toshogu-shrine/
+日光観光モデルコース： https://www.visitnikko.jp/en/itineraries/central-nikkos-highlights-for-the-time-pressed/
+群馬県公式観光： https://www.visit-gunma.jp/en/discover/destinations/kusatsu/
+渋川伊香保温泉観光協会： https://ikaho-kankou.com/sightseeing/ikaho/
+山梨県公式観光： https://www.yamanashi-kankou.jp/kankou/spot/yagisaki_park.html
+日本政府観光局 忍野八海： https://www.japan.travel/en/spot/1327/
+各スポットの個別の出典URLは verified-spots-20261016-0300.json の official_url を参照。
+観光案内ハブを指すURLはそのハブで実在確認したもの。営業時間・料金は必ず現地公式を確認。
