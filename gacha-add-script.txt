@@ -1,0 +1,4 @@
+【date-gacha.html に追加】
+既存の最終行の </body> の直前に次の1行を追加してください。
+<script src="gacha-upgrade-20261015.js"></script>
+注意：インライン <script>...</script> の後に配置してください。すでに gacha-upgrade.js の読み込み行がある場合は二重適用を避け、古い読み込み行を削除してから追加してください。

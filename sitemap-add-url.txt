@@ -1,0 +1,3 @@
+【sitemap.xml に追加】
+既存の </urlset> の直前に、次の1行を追加してください。
+<url><loc>https://goonyogunyo-prog.github.io/date-compass/date-eve-checklist.html</loc><lastmod>2026-10-15</lastmod></url>

@@ -1,0 +1,4 @@
+【index.html に追加】
+既存の <section id="popular"> 内、<div class="grid"> の中へ次の1行を追加してください。
+
+<a class="card" href="date-eve-checklist.html"><span class="tag">保存版・デート準備</span><h3>デート前日のチェックリスト10項目</h3><p>待ち合わせ・天気・予約・予算を10項目で確認。ブラウザにチェック状態を保存できる無料ツール。</p></a>
