@@ -1979,5 +1979,203 @@
     "official_url": "https://www.yamanashi-kankou.jp/kankou/spot/p2_4404.html",
     "verification": "2026-10-16 公式運営・自治体・観光協会等の案内で実在確認",
     "verified_on": "2026-10-16"
+  },
+  {
+    "id": "dc04_tokyo_tower",
+    "name": "東京タワー",
+    "prefecture": "東京",
+    "area": "芝公園・東京タワー",
+    "category": "展望・夜景",
+    "setting": "屋内",
+    "description": "都心の景色を楽しむ展望施設。夜景・最終入場は公式案内を確認。",
+    "official_url": "https://en.tokyotower.co.jp/",
+    "verification": "公式確認 2026-10-16"
+  },
+  {
+    "id": "dc04_shiokaze",
+    "name": "潮風公園",
+    "prefecture": "東京",
+    "area": "お台場",
+    "category": "公園・景色",
+    "setting": "屋外",
+    "description": "船や飛行機が見える海辺のプロムナード。夜間は安全に配慮。",
+    "official_url": "https://www.tokyo-park.or.jp/park/shiokaze/index.html",
+    "verification": "公式確認 2026-10-16"
+  },
+  {
+    "id": "dc04_osanbashi",
+    "name": "横浜港大さん橋国際客船ターミナル",
+    "prefecture": "神奈川",
+    "area": "横浜・みなとみらい",
+    "category": "夜景・展望",
+    "setting": "屋内・屋外",
+    "description": "屋上広場から港を一望。天候が悪い場合は屋外滞在を短めに。",
+    "official_url": "https://www.city.yokohama.lg.jp/kanko-bunka/minato/yokohamako/gaiyo/terminalhome.html",
+    "verification": "公式確認 2026-10-16"
+  },
+  {
+    "id": "dc04_zounohana",
+    "name": "象の鼻パーク",
+    "prefecture": "神奈川",
+    "area": "横浜・みなとみらい",
+    "category": "公園・景色",
+    "setting": "屋外",
+    "description": "横浜港発祥の地に整備された海辺の公園。赤レンガと山下公園の間。",
+    "official_url": "https://www.city.yokohama.lg.jp/kanko-bunka/minato/yokohamako/gaiyo/zonohana/zounohana.html",
+    "verification": "公式確認 2026-10-16"
+  },
+  {
+    "id": "dc04_yamashita",
+    "name": "山下公園",
+    "prefecture": "神奈川",
+    "area": "横浜・山下公園",
+    "category": "公園・景色",
+    "setting": "屋外",
+    "description": "港沿いの散歩に向く公園。風が強い日や夜間は無理をしない。",
+    "official_url": "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/fukushi-kaigo/fuku-machi/barrierfree/shisetsu/shisetsu/05069.html",
+    "verification": "公式確認 2026-10-16"
+  },
+  {
+    "id": "dc04_minato_hill",
+    "name": "港の見える丘公園",
+    "prefecture": "神奈川",
+    "area": "横浜・山手",
+    "category": "公園・展望",
+    "setting": "屋外",
+    "description": "山手の高台から横浜港を眺める。坂道や夜間の足元に注意。",
+    "official_url": "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/fukushi-kaigo/fuku-machi/barrierfree/shisetsu/shisetsu/06082.html",
+    "verification": "公式確認 2026-10-16"
+  },
+  {
+    "id": "dc04_rinko",
+    "name": "臨港パーク",
+    "prefecture": "神奈川",
+    "area": "横浜・みなとみらい",
+    "category": "公園・景色",
+    "setting": "屋外",
+    "description": "みなとみらいの水際線を楽しむ公園。イベント時は混雑に注意。",
+    "official_url": "https://www.city.yokohama.lg.jp/kanko-bunka/minato/taikan/kengaku/shisetsu20190910.html",
+    "verification": "公式確認 2026-10-16"
+  },
+  {
+    "id": "dc04_wharf",
+    "name": "THE WHARF HOUSE 山下公園",
+    "prefecture": "神奈川",
+    "area": "横浜・山下公園",
+    "category": "飲食・休憩",
+    "setting": "屋内・屋外",
+    "description": "山下公園のレストハウスを活用した飲食施設。営業・席・予約可否は公式確認。",
+    "official_url": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/midori-koen/koen/renkei/yamashita-p-pfi.html",
+    "verification": "公式確認 2026-10-16"
+  },
+  {
+    "id": "dc04_chiba_tower",
+    "name": "千葉ポートタワー",
+    "prefecture": "千葉",
+    "area": "千葉みなと",
+    "category": "展望・夜景",
+    "setting": "屋内",
+    "description": "東京湾や千葉港を望む展望施設。冬期は閉館が早い日がある。",
+    "official_url": "https://www.chiba-porttower.com/",
+    "verification": "公式確認 2026-10-16"
+  },
+  {
+    "id": "dc04_chiba_park",
+    "name": "千葉ポートパーク",
+    "prefecture": "千葉",
+    "area": "千葉みなと",
+    "category": "公園・景色",
+    "setting": "屋外",
+    "description": "千葉港近くの海辺の公園。タワーや美術館と組み合わせられる。",
+    "official_url": "https://www.city.chiba.jp/bayside/chibaminato.html",
+    "verification": "公式確認 2026-10-16"
+  },
+  {
+    "id": "dc04_sanbashi",
+    "name": "さんばしひろば",
+    "prefecture": "千葉",
+    "area": "千葉みなと",
+    "category": "公園・景色",
+    "setting": "屋外",
+    "description": "旅客船さん橋に面した海辺の親水空間。日没後は足元に注意。",
+    "official_url": "https://www.city.chiba.jp/toshi/toshi/machizukuri/umibe_minato/central-port-of-chiba.html",
+    "verification": "公式確認 2026-10-16"
+  },
+  {
+    "id": "dc04_ksharbor",
+    "name": "ケーズハーバー",
+    "prefecture": "千葉",
+    "area": "千葉みなと",
+    "category": "買い物・食事",
+    "setting": "屋内",
+    "description": "旅客船ターミナルや飲食店がある複合施設。店舗営業時間は個別に確認。",
+    "official_url": "https://www.city.chiba.jp/bayside/chibaminato.html",
+    "verification": "公式確認 2026-10-16"
+  },
+  {
+    "id": "dc04_chiba_art",
+    "name": "千葉県立美術館",
+    "prefecture": "千葉",
+    "area": "千葉みなと",
+    "category": "美術館",
+    "setting": "屋内",
+    "description": "千葉ゆかりの作家などの作品を鑑賞。16時台の入場は難しいので昼向け。",
+    "official_url": "https://www.chiba-muse.or.jp/ART/visit/",
+    "verification": "公式確認 2026-10-16"
+  },
+  {
+    "id": "dc04_cocoon",
+    "name": "コクーンシティ",
+    "prefecture": "埼玉",
+    "area": "さいたま新都心",
+    "category": "買い物・食事",
+    "setting": "屋内",
+    "description": "駅東口に直結する商業施設。食事・買い物の支出は各自で調整。",
+    "official_url": "https://web2020.cocooncity.jp/access",
+    "verification": "公式確認 2026-10-16"
+  },
+  {
+    "id": "dc04_keyaki",
+    "name": "さいたま新都心 けやきひろば",
+    "prefecture": "埼玉",
+    "area": "さいたま新都心",
+    "category": "公園・景色",
+    "setting": "屋外",
+    "description": "駅西側のけやき並木のある広場。イベント開催時は混雑に注意。",
+    "official_url": "https://www.city.saitama.lg.jp/004/001/005/002/004/p046530.html",
+    "verification": "公式確認 2026-10-16"
+  },
+  {
+    "id": "dc04_hikawa_sando",
+    "name": "氷川参道",
+    "prefecture": "埼玉",
+    "area": "大宮・さいたま新都心",
+    "category": "散歩・自然",
+    "setting": "屋外",
+    "description": "大宮からさいたま新都心方面へ続く緑の参道。暗くなる前の散策向け。",
+    "official_url": "https://www.city.saitama.lg.jp/001/010/015/004/004/p010795.html",
+    "verification": "公式確認 2026-10-16"
+  },
+  {
+    "id": "dc04_omiya_kadomachi",
+    "name": "大宮門街",
+    "prefecture": "埼玉",
+    "area": "大宮",
+    "category": "買い物・文化",
+    "setting": "屋内",
+    "description": "大宮駅東口の商業・文化複合施設。施設・テナントの営業は確認。",
+    "official_url": "https://www.city.saitama.lg.jp/006/014/013/001/009/011/p089450.html",
+    "verification": "公式確認 2026-10-16"
+  },
+  {
+    "id": "dc04_fujiko",
+    "name": "川崎市 藤子・F・不二雄ミュージアム",
+    "prefecture": "神奈川",
+    "area": "川崎・登戸",
+    "category": "博物館・体験",
+    "setting": "屋内",
+    "description": "漫画の世界を楽しめるミュージアム。日時指定チケット等は事前確認。",
+    "official_url": "https://www.city.kawasaki.jp/250/page/0000016436.html",
+    "verification": "公式確認 2026-10-16"
   }
 ]

@@ -1,0 +1,366 @@
+[
+  {
+    "id": "dc04_yok_night_01",
+    "area": "yokohama",
+    "weather": "sun",
+    "mood": "romantic",
+    "fixed": 0,
+    "title": "横浜｜港の夕景と赤レンガの夜",
+    "intro": "16時から海辺を歩いて、屋内で食事を探す。",
+    "steps": [
+      [
+        "16:00",
+        "dc04_yamashita"
+      ],
+      [
+        "17:30",
+        "dc04_osanbashi"
+      ],
+      [
+        "19:00",
+        "brick"
+      ]
+    ],
+    "tip": "山下公園・大さん橋は屋外。悪天候は無理をせず、食事は事前に店舗営業を確認。",
+    "evening": true,
+    "feesUnpriced": true
+  },
+  {
+    "id": "dc04_yok_night_02",
+    "area": "yokohama",
+    "weather": "sun",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "横浜｜海辺の広場と大さん橋",
+    "intro": "夕方の港散歩からショッピングへ。",
+    "steps": [
+      [
+        "16:00",
+        "dc04_zounohana"
+      ],
+      [
+        "17:30",
+        "dc04_osanbashi"
+      ],
+      [
+        "19:00",
+        "worldporters"
+      ]
+    ],
+    "tip": "港の散策は寒暖差・強風に注意。最後の商業施設は店舗ごとの営業時間を確認。",
+    "evening": true,
+    "feesUnpriced": true
+  },
+  {
+    "id": "dc04_yok_night_03",
+    "area": "yokohama",
+    "weather": "rain",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "横浜｜雨なら館内を中心に",
+    "intro": "雨の日は買い物と食事を優先。",
+    "steps": [
+      [
+        "16:00",
+        "markis"
+      ],
+      [
+        "17:30",
+        "worldporters"
+      ],
+      [
+        "19:00",
+        "hammerhead"
+      ]
+    ],
+    "tip": "施設間は屋外移動あり。荒天ならタクシーや交通機関を利用。",
+    "evening": true,
+    "feesUnpriced": true
+  },
+  {
+    "id": "dc04_chiba_night_01",
+    "area": "chibaminato",
+    "weather": "sun",
+    "mood": "romantic",
+    "fixed": 0,
+    "title": "千葉みなと｜港の夕景とタワー",
+    "intro": "海辺から展望台、港の食事へ。",
+    "steps": [
+      [
+        "16:00",
+        "dc04_sanbashi"
+      ],
+      [
+        "17:00",
+        "dc04_chiba_tower"
+      ],
+      [
+        "18:30",
+        "dc04_ksharbor"
+      ]
+    ],
+    "tip": "千葉ポートタワーは冬期の平日など閉館が早い。17時入館できるか公式確認。",
+    "evening": true,
+    "feesUnpriced": true
+  },
+  {
+    "id": "dc04_chiba_night_02",
+    "area": "chibaminato",
+    "weather": "sun",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "千葉みなと｜海辺で過ごす夕方",
+    "intro": "海辺の景色から屋内へ。",
+    "steps": [
+      [
+        "16:00",
+        "dc04_chiba_park"
+      ],
+      [
+        "17:00",
+        "dc04_sanbashi"
+      ],
+      [
+        "18:30",
+        "dc04_ksharbor"
+      ]
+    ],
+    "tip": "夕方以降の海辺は暗くなるため、無理せず屋内へ。",
+    "evening": true,
+    "feesUnpriced": true
+  },
+  {
+    "id": "dc04_saitama_night_01",
+    "area": "shintoshin",
+    "weather": "sun",
+    "mood": "romantic",
+    "fixed": 0,
+    "title": "さいたま新都心｜けやきとショッピング",
+    "intro": "広場の景色から食事・買い物へ。",
+    "steps": [
+      [
+        "16:00",
+        "dc04_keyaki"
+      ],
+      [
+        "17:30",
+        "dc04_cocoon"
+      ],
+      [
+        "19:00",
+        "dc04_omiya_kadomachi"
+      ]
+    ],
+    "tip": "最後は大宮駅へ電車で1駅移動。イベントや営業時間を確認。",
+    "evening": true,
+    "feesUnpriced": true
+  },
+  {
+    "id": "dc04_odaiba_night_01",
+    "area": "odaiba",
+    "weather": "sun",
+    "mood": "romantic",
+    "fixed": 0,
+    "title": "お台場｜夕景からショッピングへ",
+    "intro": "夕方の海辺と夜の買い物を楽しむ。",
+    "steps": [
+      [
+        "16:00",
+        "odaiba_divercity"
+      ],
+      [
+        "17:30",
+        "odaiba_seaside"
+      ],
+      [
+        "19:00",
+        "odaiba_aquacity"
+      ]
+    ],
+    "tip": "日没後の海辺は短時間にし、商業施設の閉店を確認。",
+    "evening": true,
+    "feesUnpriced": true
+  },
+  {
+    "id": "dc04_marunouchi_night_01",
+    "area": "marunouchi",
+    "weather": "sun",
+    "mood": "romantic",
+    "fixed": 0,
+    "title": "丸の内｜夕景と駅前の光",
+    "intro": "駅近の文化施設と夜の街歩き。",
+    "steps": [
+      [
+        "16:00",
+        "tokyoforum"
+      ],
+      [
+        "17:30",
+        "kitte"
+      ],
+      [
+        "19:00",
+        "marubiru"
+      ]
+    ],
+    "tip": "屋上庭園は悪天候で閉鎖の場合あり。食事は各店舗の営業時間を確認。",
+    "evening": true,
+    "feesUnpriced": true
+  },
+  {
+    "id": "dc04_oshiage_night_01",
+    "area": "oshiage",
+    "weather": "sun",
+    "mood": "romantic",
+    "fixed": 0,
+    "title": "押上｜夕景の展望とソラマチ",
+    "intro": "スカイツリーを夕方から楽しむ。",
+    "steps": [
+      [
+        "16:00",
+        "mizumachi"
+      ],
+      [
+        "17:30",
+        "skytree"
+      ],
+      [
+        "19:00",
+        "solamachi"
+      ]
+    ],
+    "tip": "東京ミズマチは店舗営業時間が異なる。天望デッキの最終入場・料金を確認。",
+    "evening": true,
+    "feesUnpriced": true
+  },
+  {
+    "id": "dc04_oshiage_night_02",
+    "area": "oshiage",
+    "weather": "rain",
+    "mood": "active",
+    "fixed": 0,
+    "title": "押上｜雨の日の水族館と展望",
+    "intro": "屋内を中心に夕方から。",
+    "steps": [
+      [
+        "16:00",
+        "sumida"
+      ],
+      [
+        "18:00",
+        "skytree"
+      ],
+      [
+        "19:30",
+        "solamachi"
+      ]
+    ],
+    "tip": "すみだ水族館・展望台の入場は当日公式確認。",
+    "evening": true,
+    "feesUnpriced": true
+  },
+  {
+    "id": "dc04_shinjuku_night_01",
+    "area": "shinjuku",
+    "weather": "sun",
+    "mood": "romantic",
+    "fixed": 0,
+    "title": "新宿｜展望と駅前ショッピング",
+    "intro": "駅近の買い物から展望、食事へ。",
+    "steps": [
+      [
+        "16:00",
+        "newoman"
+      ],
+      [
+        "17:30",
+        "tocho"
+      ],
+      [
+        "19:00",
+        "lumineest"
+      ]
+    ],
+    "tip": "都庁展望室は北・南で休室日や入室時刻が異なる。",
+    "evening": true,
+    "feesUnpriced": true
+  },
+  {
+    "id": "dc04_ueno_night_01",
+    "area": "ueno",
+    "weather": "sun",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "上野｜公園から駅前の夜へ",
+    "intro": "明るいうちに散歩、夜は駅前で。",
+    "steps": [
+      [
+        "16:00",
+        "park"
+      ],
+      [
+        "17:30",
+        "atreueno"
+      ],
+      [
+        "19:00",
+        "uenomarui"
+      ]
+    ],
+    "tip": "上野公園は暗くなる前に離れる。飲食店の営業時間を確認。",
+    "evening": true,
+    "feesUnpriced": true
+  },
+  {
+    "id": "dc04_toyosu_night_01",
+    "area": "toyosu",
+    "weather": "sun",
+    "mood": "romantic",
+    "fixed": 0,
+    "title": "豊洲｜夕方の海辺と屋内デート",
+    "intro": "海辺の散歩から館内で食事へ。",
+    "steps": [
+      [
+        "16:00",
+        "gururi"
+      ],
+      [
+        "17:30",
+        "toyosulalaport"
+      ],
+      [
+        "19:00",
+        "senkyaku"
+      ]
+    ],
+    "tip": "足湯の利用可能時間は未確認。食事店舗の営業時間を公式確認。",
+    "evening": true,
+    "feesUnpriced": true
+  },
+  {
+    "id": "dc04_ikebukuro_night_01",
+    "area": "ikebukuro",
+    "weather": "rain",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "池袋｜夕方から館内で過ごす",
+    "intro": "雨の日でも買い物・展望・食事を。",
+    "steps": [
+      [
+        "16:00",
+        "ikeparco"
+      ],
+      [
+        "17:30",
+        "tenbou"
+      ],
+      [
+        "19:00",
+        "sunshine"
+      ]
+    ],
+    "tip": "展望台の最終入場とショップ営業時間を公式確認。",
+    "evening": true,
+    "feesUnpriced": true
+  }
+]
