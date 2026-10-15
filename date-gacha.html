@@ -95,4 +95,4 @@ document.getElementById('saveFavorite').addEventListener('click',()=>{if(!curren
 document.getElementById('favoriteList').addEventListener('click',e=>{const btn=e.target.closest('button');if(!btn)return;const id=btn.dataset.open||btn.dataset.remove;if(!id)return;const r=routes.find(x=>x.id===id);if(!r)return;if(btn.dataset.remove){if(putFavorites(getFavorites().filter(x=>x!==id))){renderFavorites();document.getElementById('favoriteMessage').textContent='削除しました。';}}else{document.getElementById('area').value=r.area;document.getElementById('weather').value=r.weather;render(r);}});
 renderFavorites();
 const params=new URLSearchParams(location.search);for(const k of ['relation','budget','area','weather','mood','partnerMood','startTime']){const select=document.getElementById(k);const val=params.get(k);if(val&&[...select.options].some(o=>o.value===val))select.value=val;}const route=routes.find(r=>r.id===params.get('route'));if(route)render(route);
-</script><script src="gacha-upgrade.js"></script></body></html>
+</script><script src="gacha-upgrade.js"></script><script src="gacha-routes-20261015.js"></script></body></html>
