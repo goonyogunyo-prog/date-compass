@@ -1,0 +1,110 @@
+[
+  {
+    "id": "dc1400_tsite",
+    "name": "柏の葉 T-SITE",
+    "prefecture": "千葉",
+    "area": "柏の葉",
+    "category": "買い物・文化",
+    "setting": "屋内",
+    "description": "蔦屋書店を中心に本や雑貨を見て過ごす。各ショップの営業・イベント情報は公式で確認。",
+    "official_url": "https://store.tsite.jp/kashiwanoha/access/",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "dc1400_aqua",
+    "name": "柏の葉アクアテラス",
+    "prefecture": "千葉",
+    "area": "柏の葉",
+    "category": "公園・景色",
+    "setting": "屋外",
+    "description": "柏市が整備した水辺の親水空間。散策は天気と日没時刻を確認し、夜間の足元に注意。",
+    "official_url": "https://www.city.kashiwa.lg.jp/hokubuseibi/aquaterrace.html",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "dc1400_lalaport",
+    "name": "ららぽーと柏の葉",
+    "prefecture": "千葉",
+    "area": "柏の葉",
+    "category": "買い物・食事",
+    "setting": "屋内",
+    "description": "柏の葉キャンパス駅前の商業施設。買い物・食事は店舗ごとの営業時間と料金を確認。",
+    "official_url": "https://mitsui-shopping-park.com/lalaport/kashiwa/",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "dc1400_park",
+    "name": "千葉県立柏の葉公園",
+    "prefecture": "千葉",
+    "area": "柏の葉",
+    "category": "公園・庭園",
+    "setting": "屋外",
+    "description": "緑豊かな県立公園。日本庭園・季節の花などを散策。施設別の利用時間・休園日に注意。",
+    "official_url": "https://www.cue-net.or.jp/kouen/kasiwa/annai/index.html",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "dc1400_yokocho",
+    "name": "柏の葉かけだし横丁",
+    "prefecture": "千葉",
+    "area": "柏の葉",
+    "category": "飲食・休憩",
+    "setting": "屋内外",
+    "description": "駅高架下の飲食店街。店舗により営業日・営業時間が異なり、食事代は別途。",
+    "official_url": "https://kakedashi.jp/shops/",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "dc1400_konbukuro",
+    "name": "こんぶくろ池自然博物公園",
+    "prefecture": "千葉",
+    "area": "柏の葉",
+    "category": "自然・散歩",
+    "setting": "屋外",
+    "description": "湧水と森が残る自然公園。整備中のため公開区域と園路状況を事前確認。",
+    "official_url": "https://www.city.kashiwa.lg.jp/koenryokuchi/shiseijoho/keikaku/shigoto/kaihatsu/kouen/konbukuroike.html",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "dc1400_yoshida",
+    "name": "旧吉田家住宅歴史公園",
+    "prefecture": "千葉",
+    "area": "柏・花野井",
+    "category": "建築・歴史",
+    "setting": "屋内外",
+    "description": "歴史的な住宅・庭園を見学。月曜等の休園日・入園料金・最終入園を公式で確認。",
+    "official_url": "https://former-yoshida.jp/visit/",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "dc1400_akebono",
+    "name": "あけぼの山農業公園",
+    "prefecture": "千葉",
+    "area": "柏・布施",
+    "category": "公園・景色",
+    "setting": "屋外",
+    "description": "風車と季節の花畑を楽しむ。花の見頃は時期によって異なり、バス移動の確認が必要。",
+    "official_url": "https://www.city.kashiwa.lg.jp/facilities/park/akebonoyama-nogyo.html",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "dc1400_movix",
+    "name": "MOVIX柏の葉",
+    "prefecture": "千葉",
+    "area": "柏の葉",
+    "category": "映画・体験",
+    "setting": "屋内",
+    "description": "ららぽーと柏の葉内の映画館。上映作品・開始時刻・料金・空席は公式で確認。",
+    "official_url": "https://www.smt-cinema.com/sp/site/Kashiwanoha/",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  }
+]

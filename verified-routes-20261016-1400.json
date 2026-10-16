@@ -1,0 +1,158 @@
+[
+  {
+    "id": "dc1400_green",
+    "area": "kashiwanoha",
+    "weather": "sun",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "柏の葉｜森と公園、書店でのんびり",
+    "intro": "湧水の森と緑豊かな公園を巡り、最後は書店で休憩。",
+    "steps": [
+      [
+        "10:30",
+        "dc1400_konbukuro"
+      ],
+      [
+        "13:00",
+        "dc1400_park"
+      ],
+      [
+        "15:30",
+        "dc1400_tsite"
+      ]
+    ],
+    "tip": "自然公園の公開範囲・公園内施設の開園時間を確認。屋外を歩くため歩きやすい靴と天候対策が必要。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1400_water",
+    "area": "kashiwanoha",
+    "weather": "sun",
+    "mood": "romantic",
+    "fixed": 0,
+    "title": "柏の葉｜公園・本屋・水辺の夕景",
+    "intro": "緑の公園から本屋、アクアテラスへ。",
+    "steps": [
+      [
+        "11:00",
+        "dc1400_park"
+      ],
+      [
+        "13:30",
+        "dc1400_tsite"
+      ],
+      [
+        "15:30",
+        "dc1400_aqua"
+      ]
+    ],
+    "tip": "公園からT-SITEへの移動時間を見込む。水辺は雨天・強風・暗い時間帯に無理をしない。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1400_rain",
+    "area": "kashiwanoha",
+    "weather": "rain",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "柏の葉｜雨の日の書店・映画・ショッピング",
+    "intro": "屋内施設で本と映画、買い物を楽しむ。",
+    "steps": [
+      [
+        "10:30",
+        "dc1400_tsite"
+      ],
+      [
+        "13:00",
+        "dc1400_movix"
+      ],
+      [
+        "16:00",
+        "dc1400_lalaport"
+      ]
+    ],
+    "tip": "映画の開始・終了時刻に合わせて順番を調整。T-SITEとららぽーと間は屋外移動あり。映画料金は未算入。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1400_evening",
+    "area": "kashiwanoha",
+    "weather": "sun",
+    "mood": "romantic",
+    "fixed": 0,
+    "title": "柏の葉｜16時から本・映画・夜ごはん",
+    "intro": "夕方から本を見て、映画を観て、駅前の飲食店街へ。",
+    "steps": [
+      [
+        "16:00",
+        "dc1400_tsite"
+      ],
+      [
+        "17:30",
+        "dc1400_movix"
+      ],
+      [
+        "20:00",
+        "dc1400_yokocho"
+      ]
+    ],
+    "tip": "映画の上映回に合わせて時刻を調整。横丁は店舗ごとに営業時間が異なる。終映が遅い場合は食事を先に。",
+    "feesUnpriced": true,
+    "evening": true
+  },
+  {
+    "id": "dc1400_evening2",
+    "area": "kashiwanoha",
+    "weather": "sun",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "柏の葉｜16時から買い物・本・駅前ごはん",
+    "intro": "夕方の買い物から書店、駅前の食事へ。",
+    "steps": [
+      [
+        "16:00",
+        "dc1400_lalaport"
+      ],
+      [
+        "18:00",
+        "dc1400_tsite"
+      ],
+      [
+        "19:30",
+        "dc1400_yokocho"
+      ]
+    ],
+    "tip": "店舗ごとの閉店時間・混雑状況を確認。食事代と交通費は未算入。",
+    "feesUnpriced": true,
+    "evening": true
+  },
+  {
+    "id": "dc1400_heritage",
+    "area": "kashiwanoha",
+    "weather": "sun",
+    "mood": "active",
+    "fixed": 0,
+    "title": "柏北部｜歴史公園・風車・駅前グルメ",
+    "intro": "バス・車で少し遠出する歴史と花の一日。",
+    "steps": [
+      [
+        "10:00",
+        "dc1400_yoshida"
+      ],
+      [
+        "13:00",
+        "dc1400_akebono"
+      ],
+      [
+        "17:00",
+        "dc1400_yokocho"
+      ]
+    ],
+    "tip": "施設間の移動距離が長く、バス時刻または車が必要。旧吉田家は月曜等休園、あけぼの山は季節の花の状況を確認。",
+    "feesUnpriced": true,
+    "evening": false
+  }
+]

@@ -1,0 +1,206 @@
+{
+  "gyoen": {
+    "type": "fixed",
+    "adult": 500,
+    "student": 250,
+    "label": "通常入園（一般500円／学生250円）",
+    "highlight": "風景式庭園・整形式庭園・日本庭園という3つの庭園様式を歩いて比較。秋は菊花壇展も見どころ（会期は要確認）。",
+    "caution": "10月〜3月は最終入園16:00。学生料金は証明書の提示を確認。",
+    "source": "https://policies.env.go.jp/national-garden/shinjukugyoen/guide/information/",
+    "checked": "2026-10-17"
+  },
+  "zoo": {
+    "type": "fixed",
+    "adult": 600,
+    "student": 600,
+    "label": "通常入園（一般600円）",
+    "highlight": "動物の生態や行動を観察。動物によって公開終了時刻が早いので、見たい動物を先に回ろう。",
+    "caution": "入園券の販売は閉園1時間前まで。休園日・展示休止を確認。",
+    "source": "https://www.tokyo-zoo.net/ueno/visitor-info/tickets/",
+    "checked": "2026-10-17"
+  },
+  "kahaku": {
+    "type": "fixed",
+    "adult": 630,
+    "student": 630,
+    "label": "常設展（一般・大学生630円）",
+    "highlight": "日本館で日本列島の自然を、地球館では生命の進化や恐竜・哺乳類の展示を楽しめる。日本館地下の球体映像「シアター36○」も話題に。",
+    "caution": "特別展は別料金。地球館地下3階は2026年9月8日から改修閉鎖中、地球館2階も一部閉鎖。",
+    "source": "https://www.kahaku.go.jp/riyou/nyukan-annai/",
+    "checked": "2026-10-17"
+  },
+  "tnm": {
+    "type": "fixed",
+    "adult": 1000,
+    "student": 500,
+    "label": "東博コレクション展（一般1,000円／大学生500円）",
+    "highlight": "本館「日本美術の流れ」で縄文・弥生・古墳から絵画・工芸までを時代順に鑑賞。気になる一品を選んで感想を話すのがおすすめ。",
+    "caution": "特別展は別料金。作品の展示替え・休室あり。2026年10月26日から本館4室が改修閉鎖予定。",
+    "source": "https://www.tnm.jp/modules/r_free_page/index.php?id=113",
+    "checked": "2026-10-17"
+  },
+  "sumida": {
+    "type": "fixed",
+    "adult": 2700,
+    "student": 2700,
+    "label": "通常入場（大人・大学生2,700円）",
+    "highlight": "「江戸リウム」で金魚の品種や江戸の文化を楽しみ、ペンギンやクラゲの展示へ。小笠原大水槽も見どころ。",
+    "caution": "企画や展示生物は変更あり。日付指定のチケット条件を確認。",
+    "source": "https://www.sumida-aquarium.com/about/price/",
+    "checked": "2026-10-17"
+  },
+  "aquarium": {
+    "type": "range",
+    "min": 2600,
+    "max": 3200,
+    "label": "高校生以上2,600〜3,200円（日程変動）",
+    "highlight": "ビル群を背景に頭上を泳ぐ「天空のペンギン」、水辺・海の生き物展示が名物。",
+    "caution": "利用日によって料金が変動。公式カレンダーと一部展示休止を確認。",
+    "source": "https://sunshinecity.jp/en/aquarium/ticket/",
+    "checked": "2026-10-17"
+  },
+  "tenbou": {
+    "type": "range",
+    "min": 700,
+    "max": 1200,
+    "label": "高校生以上700〜1,200円（日程変動）",
+    "highlight": "地上60階から池袋周辺の街並みと夕景・夜景を見渡せる。",
+    "caution": "土日祝・特定日は日時指定券が必要な場合あり。日付で料金変動。",
+    "source": "https://sunshinecity.jp/observatory/ticket/",
+    "checked": "2026-10-17"
+  },
+  "skytree": {
+    "type": "minimum",
+    "min": 1800,
+    "label": "天望デッキ大人WEB1,800円〜（日程変動）",
+    "highlight": "地上350mの天望デッキから東京を一望。天望回廊（450m）は別チケット。",
+    "caution": "当日窓口発券料は別途500円／枚。日付・券種・予約方法で変動。",
+    "source": "https://www.tokyo-skytree.jp/ticket/",
+    "checked": "2026-10-17"
+  },
+  "cosmo": {
+    "type": "optional",
+    "amount": 1000,
+    "label": "入園無料／大観覧車に乗るなら1,000円",
+    "highlight": "「コスモクロック21」で約15分の空中散歩。夕景・夜景はデートの定番。",
+    "caution": "入園のみなら0円。乗車・他アトラクションは別料金、悪天候で運休あり。",
+    "source": "https://cosmoworld.jp/ticket/",
+    "checked": "2026-10-17"
+  },
+  "tocho": {
+    "type": "fixed",
+    "adult": 0,
+    "student": 0,
+    "label": "展望室入室無料",
+    "highlight": "高層階から東京の街並みを眺める。北・南展望室で休室日が異なるので事前に確認。",
+    "caution": "開室状況・入場制限は公式案内を確認。",
+    "source": "https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou/",
+    "checked": "2026-10-17"
+  },
+  "senkyaku": {
+    "type": "fixed",
+    "adult": 0,
+    "student": 0,
+    "label": "8階足湯庭園は無料（飲食・買い物別）",
+    "highlight": "海辺を眺めながら足湯。館内の飲食エリアも候補に。",
+    "caution": "貸切・臨時休止あり。タオル等の費用は別途確認。",
+    "source": "https://www.toyosu-senkyakubanrai.jp/faq",
+    "checked": "2026-10-17"
+  },
+  "park": {
+    "type": "unverified",
+    "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+    "highlight": "上野公園で散策。美術館・動物園など有料施設へ入る場合は別料金。",
+    "caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。",
+    "source": "https://www.tokyo-park.or.jp/park/ueno/",
+    "checked": "既存掲載情報・2026-10-17時点で料金未再確認"
+  },
+  "toyosupark": {
+    "type": "unverified",
+    "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+    "highlight": "海沿いの芝生広場や散策路。風が強い日は館内へ。",
+    "caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。",
+    "source": "https://toyosugururi.jp/about/",
+    "checked": "既存掲載情報・2026-10-17時点で料金未再確認"
+  },
+  "gururi": {
+    "type": "unverified",
+    "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+    "highlight": "水辺の景色とレインボーブリッジ方面の眺望。",
+    "caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。",
+    "source": "https://www.city.koto.lg.jp/470705/kasenkouen/toyosugururipark.html",
+    "checked": "既存掲載情報・2026-10-17時点で料金未再確認"
+  },
+  "gyoko": {
+    "type": "unverified",
+    "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+    "highlight": "東京駅丸の内駅舎を正面から見渡せる散歩コース。",
+    "caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。",
+    "source": "https://visit-chiyoda.tokyo/app/spot/detail/304",
+    "checked": "既存掲載情報・2026-10-17時点で料金未再確認"
+  },
+  "kitte": {
+    "type": "unverified",
+    "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+    "highlight": "KITTEの屋上庭園から東京駅の駅舎を眺める。雨・強風時は屋上閉鎖の可能性。",
+    "caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。",
+    "source": "https://marunouchi.jp-kitte.jp/shop/floor/floor-6f.jsp",
+    "checked": "既存掲載情報・2026-10-17時点で料金未再確認"
+  },
+  "solamachi": {
+    "type": "unverified",
+    "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+    "highlight": "雑貨・飲食・おみやげを見て回れる。水族館・展望台は別料金。",
+    "caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。",
+    "source": "https://www.tokyo-solamachi.jp/",
+    "checked": "既存掲載情報・2026-10-17時点で料金未再確認"
+  },
+  "sunshine": {
+    "type": "unverified",
+    "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+    "highlight": "ショッピング・飲食エリアを散策。水族館・展望台は別料金。",
+    "caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。",
+    "source": "https://sunshinecity.jp/",
+    "checked": "既存掲載情報・2026-10-17時点で料金未再確認"
+  },
+  "toyosulalaport": {
+    "type": "unverified",
+    "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+    "highlight": "ショップやレストランが集まる。飲食・買い物は別料金。",
+    "caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。",
+    "source": "https://mitsui-shopping-park.com/lalaport/toyosu/",
+    "checked": "既存掲載情報・2026-10-17時点で料金未再確認"
+  },
+  "marubrick": {
+    "type": "unverified",
+    "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+    "highlight": "中庭とショップを散策。カフェ・食事は別料金。",
+    "caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。",
+    "source": "https://www.marunouchi.com/building/bricksquare/information-access/",
+    "checked": "既存掲載情報・2026-10-17時点で料金未再確認"
+  },
+  "newoman": {
+    "type": "unverified",
+    "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+    "highlight": "ショップやカフェを見て回る。飲食・買い物は別料金。",
+    "caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。",
+    "source": "https://www.newoman.jp/shinjuku/",
+    "checked": "既存掲載情報・2026-10-17時点で料金未再確認"
+  },
+  "markis": {
+    "type": "unverified",
+    "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+    "highlight": "館内のショップ・レストランを楽しむ。飲食・買い物は別料金。",
+    "caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。",
+    "source": "https://mec-markis.jp/mm/",
+    "checked": "既存掲載情報・2026-10-17時点で料金未再確認"
+  },
+  "brick": {
+    "type": "unverified",
+    "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+    "highlight": "赤レンガ倉庫のショップ・カフェを巡る。催事は別途有料の場合あり。",
+    "caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。",
+    "source": "https://www.yokohama-akarenga.jp/",
+    "checked": "既存掲載情報・2026-10-17時点で料金未再確認"
+  }
+}

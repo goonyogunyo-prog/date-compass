@@ -8,7 +8,15 @@
     "setting": "屋内",
     "description": "館内のショップ・カフェで休憩。入館自体は無料で、飲食・買い物は別料金。営業時間は各店で確認。",
     "official_url": "https://mitsui-shopping-park.com/lalaport/toyosu/",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "unverified",
+      "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+      "checked": "既存掲載情報・2026-10-17時点で料金未再確認",
+      "source": "https://mitsui-shopping-park.com/lalaport/toyosu/"
+    },
+    "highlight": "ショップやレストランが集まる。飲食・買い物は別料金。",
+    "admission_caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。"
   },
   {
     "id": "toyosupark",
@@ -19,7 +27,15 @@
     "setting": "屋外",
     "description": "海に面した芝生広場や水辺を散歩。雨の日は館内に切り替え。",
     "official_url": "https://toyosugururi.jp/about/",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "unverified",
+      "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+      "checked": "既存掲載情報・2026-10-17時点で料金未再確認",
+      "source": "https://toyosugururi.jp/about/"
+    },
+    "highlight": "海沿いの芝生広場や散策路。風が強い日は館内へ。",
+    "admission_caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。"
   },
   {
     "id": "senkyaku",
@@ -30,7 +46,17 @@
     "setting": "屋外",
     "description": "施設エリアへの入場と8階足湯は無料。足湯は貸切・臨時休業あり。訪問日の公式お知らせを確認。",
     "official_url": "https://www.toyosu-senkyakubanrai.jp/faq",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "fixed",
+      "label": "8階足湯庭園は無料（飲食・買い物別）",
+      "checked": "2026-10-17",
+      "source": "https://www.toyosu-senkyakubanrai.jp/faq",
+      "adult": 0,
+      "student": 0
+    },
+    "highlight": "海辺を眺めながら足湯。館内の飲食エリアも候補に。",
+    "admission_caution": "貸切・臨時休止あり。タオル等の費用は別途確認。"
   },
   {
     "id": "gururi",
@@ -41,7 +67,15 @@
     "setting": "屋外",
     "description": "海沿いの景色を楽しむ散歩。園路が長いので体力と天候に合わせて折り返して。",
     "official_url": "https://www.city.koto.lg.jp/470705/kasenkouen/toyosugururipark.html",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "unverified",
+      "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+      "checked": "既存掲載情報・2026-10-17時点で料金未再確認",
+      "source": "https://www.city.koto.lg.jp/470705/kasenkouen/toyosugururipark.html"
+    },
+    "highlight": "水辺の景色とレインボーブリッジ方面の眺望。",
+    "admission_caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。"
   },
   {
     "id": "kitte",
@@ -52,7 +86,15 @@
     "setting": "屋内",
     "description": "屋上庭園は無料の景色スポット。悪天候で閉鎖する場合あり。雨の日は館内のショップやカフェに変更。",
     "official_url": "https://marunouchi.jp-kitte.jp/shop/floor/floor-6f.jsp",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "unverified",
+      "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+      "checked": "既存掲載情報・2026-10-17時点で料金未再確認",
+      "source": "https://marunouchi.jp-kitte.jp/shop/floor/floor-6f.jsp"
+    },
+    "highlight": "KITTEの屋上庭園から東京駅の駅舎を眺める。雨・強風時は屋上閉鎖の可能性。",
+    "admission_caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。"
   },
   {
     "id": "gyoko",
@@ -63,7 +105,15 @@
     "setting": "屋外",
     "description": "東京駅前の景色と散歩。屋外なので雨天時は省略。",
     "official_url": "https://visit-chiyoda.tokyo/app/spot/detail/304",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "unverified",
+      "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+      "checked": "既存掲載情報・2026-10-17時点で料金未再確認",
+      "source": "https://visit-chiyoda.tokyo/app/spot/detail/304"
+    },
+    "highlight": "東京駅丸の内駅舎を正面から見渡せる散歩コース。",
+    "admission_caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。"
   },
   {
     "id": "marubrick",
@@ -74,7 +124,15 @@
     "setting": "屋内",
     "description": "ショップ・カフェと中庭。施設への入場は無料、飲食や買い物は別料金。",
     "official_url": "https://www.marunouchi.com/building/bricksquare/information-access/",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "unverified",
+      "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+      "checked": "既存掲載情報・2026-10-17時点で料金未再確認",
+      "source": "https://www.marunouchi.com/building/bricksquare/information-access/"
+    },
+    "highlight": "中庭とショップを散策。カフェ・食事は別料金。",
+    "admission_caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。"
   },
   {
     "id": "gyoen",
@@ -85,7 +143,17 @@
     "setting": "屋内",
     "description": "公園散歩。大人一般500円・対象学生250円。休園日と入園締切を確認。",
     "official_url": "https://policies.env.go.jp/national-garden/shinjukugyoen/english/guide/information/",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "fixed",
+      "label": "通常入園（一般500円／学生250円）",
+      "checked": "2026-10-17",
+      "source": "https://policies.env.go.jp/national-garden/shinjukugyoen/guide/information/",
+      "adult": 500,
+      "student": 250
+    },
+    "highlight": "風景式庭園・整形式庭園・日本庭園という3つの庭園様式を歩いて比較。秋は菊花壇展も見どころ（会期は要確認）。",
+    "admission_caution": "10月〜3月は最終入園16:00。学生料金は証明書の提示を確認。"
   },
   {
     "id": "newoman",
@@ -96,7 +164,15 @@
     "setting": "屋内",
     "description": "カフェや雑貨を見て休憩。飲食・買い物は任意。",
     "official_url": "https://www.newoman.jp/shinjuku/",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "unverified",
+      "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+      "checked": "既存掲載情報・2026-10-17時点で料金未再確認",
+      "source": "https://www.newoman.jp/shinjuku/"
+    },
+    "highlight": "ショップやカフェを見て回る。飲食・買い物は別料金。",
+    "admission_caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。"
   },
   {
     "id": "tocho",
@@ -107,7 +183,17 @@
     "setting": "屋内外",
     "description": "入室無料。北・南で休室日が異なり、天候で景色が変わります。",
     "official_url": "https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou/",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "fixed",
+      "label": "展望室入室無料",
+      "checked": "2026-10-17",
+      "source": "https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou/",
+      "adult": 0,
+      "student": 0
+    },
+    "highlight": "高層階から東京の街並みを眺める。北・南展望室で休室日が異なるので事前に確認。",
+    "admission_caution": "開室状況・入場制限は公式案内を確認。"
   },
   {
     "id": "zoo",
@@ -118,7 +204,17 @@
     "setting": "屋内",
     "description": "一般600円。月曜などの休園日と入園時間を確認。",
     "official_url": "https://www.tokyo-zoo.net/ueno/visitor-info/tickets/",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "fixed",
+      "label": "通常入園（一般600円）",
+      "checked": "2026-10-17",
+      "source": "https://www.tokyo-zoo.net/ueno/visitor-info/tickets/",
+      "adult": 600,
+      "student": 600
+    },
+    "highlight": "動物の生態や行動を観察。動物によって公開終了時刻が早いので、見たい動物を先に回ろう。",
+    "admission_caution": "入園券の販売は閉園1時間前まで。休園日・展示休止を確認。"
   },
   {
     "id": "park",
@@ -129,7 +225,15 @@
     "setting": "屋外",
     "description": "散歩しながら会話。天候・気温に合わせて短縮。",
     "official_url": "https://www.tokyo-park.or.jp/park/ueno/",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "unverified",
+      "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+      "checked": "既存掲載情報・2026-10-17時点で料金未再確認",
+      "source": "https://www.tokyo-park.or.jp/park/ueno/"
+    },
+    "highlight": "上野公園で散策。美術館・動物園など有料施設へ入る場合は別料金。",
+    "admission_caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。"
   },
   {
     "id": "kahaku",
@@ -140,7 +244,17 @@
     "setting": "屋内",
     "description": "常設展一般・大学生630円。通常9:00〜17:00。地球館地下3階は改修閉鎖中。休館日・展示室閉鎖を確認。",
     "official_url": "https://www.kahaku.go.jp/riyou/nyukan-annai/",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "fixed",
+      "label": "常設展（一般・大学生630円）",
+      "checked": "2026-10-17",
+      "source": "https://www.kahaku.go.jp/riyou/nyukan-annai/",
+      "adult": 630,
+      "student": 630
+    },
+    "highlight": "日本館で日本列島の自然を、地球館では生命の進化や恐竜・哺乳類の展示を楽しめる。日本館地下の球体映像「シアター36○」も話題に。",
+    "admission_caution": "特別展は別料金。地球館地下3階は2026年9月8日から改修閉鎖中、地球館2階も一部閉鎖。"
   },
   {
     "id": "tnm",
@@ -151,7 +265,17 @@
     "setting": "屋内",
     "description": "東博コレクション展。一般1,000円、大学生500円（特別展は別料金）。",
     "official_url": "https://www.tnm.jp/modules/r_free_page/index.php?id=113",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "fixed",
+      "label": "東博コレクション展（一般1,000円／大学生500円）",
+      "checked": "2026-10-17",
+      "source": "https://www.tnm.jp/modules/r_free_page/index.php?id=113",
+      "adult": 1000,
+      "student": 500
+    },
+    "highlight": "本館「日本美術の流れ」で縄文・弥生・古墳から絵画・工芸までを時代順に鑑賞。気になる一品を選んで感想を話すのがおすすめ。",
+    "admission_caution": "特別展は別料金。作品の展示替え・休室あり。2026年10月26日から本館4室が改修閉鎖予定。"
   },
   {
     "id": "markis",
@@ -162,7 +286,15 @@
     "setting": "屋内",
     "description": "ショップ・カフェ・レストランから予算に合わせて選ぶ。",
     "official_url": "https://mec-markis.jp/mm/",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "unverified",
+      "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+      "checked": "既存掲載情報・2026-10-17時点で料金未再確認",
+      "source": "https://mec-markis.jp/mm/"
+    },
+    "highlight": "館内のショップ・レストランを楽しむ。飲食・買い物は別料金。",
+    "admission_caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。"
   },
   {
     "id": "brick",
@@ -173,7 +305,15 @@
     "setting": "屋内",
     "description": "ショップ・カフェ・海辺の散策。雨の日は屋内を中心に。",
     "official_url": "https://akarenga.yafjp.org/access/",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "unverified",
+      "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+      "checked": "既存掲載情報・2026-10-17時点で料金未再確認",
+      "source": "https://www.yokohama-akarenga.jp/"
+    },
+    "highlight": "赤レンガ倉庫のショップ・カフェを巡る。催事は別途有料の場合あり。",
+    "admission_caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。"
   },
   {
     "id": "cosmo",
@@ -184,7 +324,16 @@
     "setting": "屋内",
     "description": "入園無料。大観覧車は通常1,000円／人。悪天候時は運休の場合あり。",
     "official_url": "https://cosmoworld.jp/ticket/",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "optional",
+      "label": "入園無料／大観覧車に乗るなら1,000円",
+      "checked": "2026-10-17",
+      "source": "https://cosmoworld.jp/ticket/",
+      "amount": 1000
+    },
+    "highlight": "「コスモクロック21」で約15分の空中散歩。夕景・夜景はデートの定番。",
+    "admission_caution": "入園のみなら0円。乗車・他アトラクションは別料金、悪天候で運休あり。"
   },
   {
     "id": "sunshine",
@@ -195,7 +344,15 @@
     "setting": "屋内",
     "description": "ショップやカフェで休憩。東池袋駅から地下通路でアクセス可能。",
     "official_url": "https://sunshinecity.jp/information/access_train.html",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "unverified",
+      "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+      "checked": "既存掲載情報・2026-10-17時点で料金未再確認",
+      "source": "https://sunshinecity.jp/"
+    },
+    "highlight": "ショッピング・飲食エリアを散策。水族館・展望台は別料金。",
+    "admission_caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。"
   },
   {
     "id": "aquarium",
@@ -206,7 +363,17 @@
     "setting": "屋内",
     "description": "高校生以上2,600〜3,200円（変動）。2026年11月4日まで一部水槽展示休止。混雑日は日時指定券を確認。",
     "official_url": "https://sunshinecity.jp/aquarium/ticket/",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "range",
+      "label": "高校生以上2,600〜3,200円（日程変動）",
+      "checked": "2026-10-17",
+      "source": "https://sunshinecity.jp/en/aquarium/ticket/",
+      "min": 2600,
+      "max": 3200
+    },
+    "highlight": "ビル群を背景に頭上を泳ぐ「天空のペンギン」、水辺・海の生き物展示が名物。",
+    "admission_caution": "利用日によって料金が変動。公式カレンダーと一部展示休止を確認。"
   },
   {
     "id": "tenbou",
@@ -217,7 +384,17 @@
     "setting": "屋内外",
     "description": "高校生以上700〜1,200円（変動）。土日祝・特定日は日時指定WEB券が必要な場合あり。",
     "official_url": "https://sunshinecity.jp/observatory/ticket/",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "range",
+      "label": "高校生以上700〜1,200円（日程変動）",
+      "checked": "2026-10-17",
+      "source": "https://sunshinecity.jp/observatory/ticket/",
+      "min": 700,
+      "max": 1200
+    },
+    "highlight": "地上60階から池袋周辺の街並みと夕景・夜景を見渡せる。",
+    "admission_caution": "土日祝・特定日は日時指定券が必要な場合あり。日付で料金変動。"
   },
   {
     "id": "sumida",
@@ -228,7 +405,17 @@
     "setting": "屋内",
     "description": "大人（大学生含む）2,700円。公式Web券は日付指定・繁忙期は日時指定。2026年10月18〜29日はオットセイ展示休止予定。",
     "official_url": "https://www.sumida-aquarium.com/about/ticket/",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "fixed",
+      "label": "通常入場（大人・大学生2,700円）",
+      "checked": "2026-10-17",
+      "source": "https://www.sumida-aquarium.com/about/price/",
+      "adult": 2700,
+      "student": 2700
+    },
+    "highlight": "「江戸リウム」で金魚の品種や江戸の文化を楽しみ、ペンギンやクラゲの展示へ。小笠原大水槽も見どころ。",
+    "admission_caution": "企画や展示生物は変更あり。日付指定のチケット条件を確認。"
   },
   {
     "id": "solamachi",
@@ -239,7 +426,15 @@
     "setting": "屋内",
     "description": "ショップ・カフェ・レストランを巡る。入館自体は無料、飲食・買い物は別料金。",
     "official_url": "https://www.tokyo-solamachi.jp/",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "unverified",
+      "label": "基本入場料は公式料金表で未確認（飲食・買い物は別料金）",
+      "checked": "既存掲載情報・2026-10-17時点で料金未再確認",
+      "source": "https://www.tokyo-solamachi.jp/"
+    },
+    "highlight": "雑貨・飲食・おみやげを見て回れる。水族館・展望台は別料金。",
+    "admission_caution": "店舗・イベント・有料施設は別途費用がかかる場合があります。"
   },
   {
     "id": "skytree",
@@ -250,7 +445,16 @@
     "setting": "屋内外",
     "description": "天望デッキ大人WEB料金1,800円〜（日付変動）。現地発券は別途500円／枚。天候により眺望が変わる。",
     "official_url": "https://www.tokyo-skytree.jp/ticket/",
-    "verification": "既存掲載"
+    "verification": "既存掲載",
+    "admission": {
+      "type": "minimum",
+      "label": "天望デッキ大人WEB1,800円〜（日程変動）",
+      "checked": "2026-10-17",
+      "source": "https://www.tokyo-skytree.jp/ticket/",
+      "min": 1800
+    },
+    "highlight": "地上350mの天望デッキから東京を一望。天望回廊（450m）は別チケット。",
+    "admission_caution": "当日窓口発券料は別途500円／枚。日付・券種・予約方法で変動。"
   },
   {
     "id": "toyosumarket",
@@ -2787,5 +2991,113 @@
     "official_url": "https://urawa.parco.jp/info/",
     "verified_on": "2026-10-16",
     "verification": "2026-10-16 施設運営者・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "dc1400_tsite",
+    "name": "柏の葉 T-SITE",
+    "prefecture": "千葉",
+    "area": "柏の葉",
+    "category": "買い物・文化",
+    "setting": "屋内",
+    "description": "蔦屋書店を中心に本や雑貨を見て過ごす。各ショップの営業・イベント情報は公式で確認。",
+    "official_url": "https://store.tsite.jp/kashiwanoha/access/",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "dc1400_aqua",
+    "name": "柏の葉アクアテラス",
+    "prefecture": "千葉",
+    "area": "柏の葉",
+    "category": "公園・景色",
+    "setting": "屋外",
+    "description": "柏市が整備した水辺の親水空間。散策は天気と日没時刻を確認し、夜間の足元に注意。",
+    "official_url": "https://www.city.kashiwa.lg.jp/hokubuseibi/aquaterrace.html",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "dc1400_lalaport",
+    "name": "ららぽーと柏の葉",
+    "prefecture": "千葉",
+    "area": "柏の葉",
+    "category": "買い物・食事",
+    "setting": "屋内",
+    "description": "柏の葉キャンパス駅前の商業施設。買い物・食事は店舗ごとの営業時間と料金を確認。",
+    "official_url": "https://mitsui-shopping-park.com/lalaport/kashiwa/",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "dc1400_park",
+    "name": "千葉県立柏の葉公園",
+    "prefecture": "千葉",
+    "area": "柏の葉",
+    "category": "公園・庭園",
+    "setting": "屋外",
+    "description": "緑豊かな県立公園。日本庭園・季節の花などを散策。施設別の利用時間・休園日に注意。",
+    "official_url": "https://www.cue-net.or.jp/kouen/kasiwa/annai/index.html",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "dc1400_yokocho",
+    "name": "柏の葉かけだし横丁",
+    "prefecture": "千葉",
+    "area": "柏の葉",
+    "category": "飲食・休憩",
+    "setting": "屋内外",
+    "description": "駅高架下の飲食店街。店舗により営業日・営業時間が異なり、食事代は別途。",
+    "official_url": "https://kakedashi.jp/shops/",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "dc1400_konbukuro",
+    "name": "こんぶくろ池自然博物公園",
+    "prefecture": "千葉",
+    "area": "柏の葉",
+    "category": "自然・散歩",
+    "setting": "屋外",
+    "description": "湧水と森が残る自然公園。整備中のため公開区域と園路状況を事前確認。",
+    "official_url": "https://www.city.kashiwa.lg.jp/koenryokuchi/shiseijoho/keikaku/shigoto/kaihatsu/kouen/konbukuroike.html",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "dc1400_yoshida",
+    "name": "旧吉田家住宅歴史公園",
+    "prefecture": "千葉",
+    "area": "柏・花野井",
+    "category": "建築・歴史",
+    "setting": "屋内外",
+    "description": "歴史的な住宅・庭園を見学。月曜等の休園日・入園料金・最終入園を公式で確認。",
+    "official_url": "https://former-yoshida.jp/visit/",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "dc1400_akebono",
+    "name": "あけぼの山農業公園",
+    "prefecture": "千葉",
+    "area": "柏・布施",
+    "category": "公園・景色",
+    "setting": "屋外",
+    "description": "風車と季節の花畑を楽しむ。花の見頃は時期によって異なり、バス移動の確認が必要。",
+    "official_url": "https://www.city.kashiwa.lg.jp/facilities/park/akebonoyama-nogyo.html",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "dc1400_movix",
+    "name": "MOVIX柏の葉",
+    "prefecture": "千葉",
+    "area": "柏の葉",
+    "category": "映画・体験",
+    "setting": "屋内",
+    "description": "ららぽーと柏の葉内の映画館。上映作品・開始時刻・料金・空席は公式で確認。",
+    "official_url": "https://www.smt-cinema.com/sp/site/Kashiwanoha/",
+    "verified_on": "2026-10-16",
+    "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
   }
 ]
