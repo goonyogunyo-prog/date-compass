@@ -1,0 +1,80 @@
+[
+  {
+    "id": "dc0954_roppongi_art",
+    "area": "roppongi",
+    "weather": "sun",
+    "mood": "active",
+    "fixed": 0,
+    "title": "六本木｜美術館とデザインを巡る午後",
+    "intro": "展示内容を見比べて、最後は街のショップで感想を話す。",
+    "steps": [
+      [
+        "11:00",
+        "dc0954_nact"
+      ],
+      [
+        "13:30",
+        "dc0954_2121"
+      ],
+      [
+        "16:00",
+        "dc0954_midtown"
+      ]
+    ],
+    "tip": "各美術館は展示替え期間・火曜など休館日あり。館内展示は有料の場合がある。施設間の屋外移動に注意。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc0954_roppongi_rain",
+    "area": "roppongi",
+    "weather": "rain",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "六本木｜雨の日のアート＆屋内ショップ",
+    "intro": "展示鑑賞と屋内の買い物を中心に、雨の日の移動を短くする。",
+    "steps": [
+      [
+        "11:00",
+        "dc0954_suntory"
+      ],
+      [
+        "13:30",
+        "dc0954_midtown"
+      ],
+      [
+        "16:00",
+        "dc0954_mori"
+      ]
+    ],
+    "tip": "東京ミッドタウンと六本木ヒルズ間には屋外移動がある。雨が強い場合は同じ建物内で過ごすなど変更を。美術館の展示日程を確認。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc0954_roppongi_night",
+    "area": "roppongi",
+    "weather": "sun",
+    "mood": "romantic",
+    "fixed": 0,
+    "title": "六本木｜16時からのショップ・アート・夜景",
+    "intro": "夕方のショップ散策から、夜の展望台へ向かう。",
+    "steps": [
+      [
+        "16:00",
+        "dc0954_midtown"
+      ],
+      [
+        "18:00",
+        "dc0954_hills"
+      ],
+      [
+        "20:00",
+        "dc0954_tcv"
+      ]
+    ],
+    "tip": "東京シティビューの最終入場・特別営業時間・チケットを公式確認。展望台からの夜景は天候次第。屋外移動と食事代は別途。",
+    "feesUnpriced": true,
+    "evening": true
+  }
+]

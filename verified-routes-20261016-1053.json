@@ -1,0 +1,132 @@
+[
+  {
+    "id": "dc1053_asakusa_classic",
+    "area": "asakusa",
+    "weather": "sun",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "浅草｜仲見世・お寺・レトロ遊園地",
+    "intro": "商店街を歩き、浅草寺で参拝してから遊園地へ。",
+    "steps": [
+      [
+        "10:30",
+        "dc1053_nakamise"
+      ],
+      [
+        "11:30",
+        "dc1053_sensoji"
+      ],
+      [
+        "14:00",
+        "dc1053_hanayashiki"
+      ]
+    ],
+    "tip": "仲見世の混雑に注意。花やしきはチケット・営業時間・最終入園を公式確認。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1053_asakusa_crafts",
+    "area": "asakusa",
+    "weather": "sun",
+    "mood": "active",
+    "fixed": 0,
+    "title": "浅草｜道具街と江戸の工芸を楽しむ",
+    "intro": "食器や雑貨を眺めながら、下町のものづくりに触れる。",
+    "steps": [
+      [
+        "10:00",
+        "dc1053_kappabashi"
+      ],
+      [
+        "12:00",
+        "dc1053_shinnaka"
+      ],
+      [
+        "14:30",
+        "dc1053_crafts"
+      ]
+    ],
+    "tip": "かっぱ橋は日曜休業の店舗もある。工芸館は第2・第4火曜など休館に注意。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1053_asakusa_rain",
+    "area": "asakusa",
+    "weather": "rain",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "浅草｜雨の日は寄席・工芸・展望案内",
+    "intro": "雨でも屋内の楽しみを多めにした浅草の文化コース。",
+    "steps": [
+      [
+        "11:40",
+        "dc1053_engei"
+      ],
+      [
+        "15:00",
+        "dc1053_crafts"
+      ],
+      [
+        "17:00",
+        "dc1053_tourismcenter"
+      ]
+    ],
+    "tip": "施設間は屋外移動。寄席は途中退場や再入場などの規定を公式確認。観光センター展望テラスは天候次第。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1053_asakusa_evening1",
+    "area": "asakusa",
+    "weather": "sun",
+    "mood": "romantic",
+    "fixed": 0,
+    "title": "浅草｜16時から寄席と夜の街並み",
+    "intro": "夜の部の寄席を楽しみ、浅草の眺望と参道の夜景へ。",
+    "steps": [
+      [
+        "16:40",
+        "dc1053_engei"
+      ],
+      [
+        "19:00",
+        "dc1053_tourismcenter"
+      ],
+      [
+        "20:00",
+        "dc1053_nakamise"
+      ]
+    ],
+    "tip": "寄席の夜の部は演目・特別興行により時間が変わる。仲見世は夜に閉店している店が多く、シャッター壁画を楽しむ想定。",
+    "feesUnpriced": true,
+    "evening": true
+  },
+  {
+    "id": "dc1053_asakusa_evening2",
+    "area": "asakusa",
+    "weather": "sun",
+    "mood": "active",
+    "fixed": 0,
+    "title": "浅草｜16時からアーケード・眺望・寄席",
+    "intro": "商店街を歩き、夕景を眺め、夜の演芸へ。",
+    "steps": [
+      [
+        "16:00",
+        "dc1053_shinnaka"
+      ],
+      [
+        "17:30",
+        "dc1053_tourismcenter"
+      ],
+      [
+        "19:00",
+        "dc1053_engei"
+      ]
+    ],
+    "tip": "寄席は夜の部の途中入場になる可能性がある。入場可否・演目・最終入場を公式で確認。商店街は店別に閉店時刻が異なる。",
+    "feesUnpriced": true,
+    "evening": true
+  }
+]

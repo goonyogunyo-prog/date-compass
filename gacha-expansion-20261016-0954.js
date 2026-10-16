@@ -1,0 +1,18 @@
+/* 六本木・乃木坂の公式情報確認済みスポット / 2026-10-16 09:54 JST */
+(function(){'use strict';
+if(typeof routes==='undefined'||typeof venues==='undefined'||typeof labels==='undefined')return;
+if(!venues["dc0954_nact"])venues["dc0954_nact"]={"name": "国立新美術館", "url": "https://www.nact.jp/", "desc": "企画展や公募展を鑑賞。展覧会ごとに料金・開催日が異なり、火曜など休館日を事前確認。"};
+if(!venues["dc0954_suntory"])venues["dc0954_suntory"]={"name": "サントリー美術館", "url": "https://www.suntory.co.jp/sma/", "desc": "日本の美をテーマにした展覧会を鑑賞。展示替え期間・チケット・開館時間は展覧会ごとに公式確認。"};
+if(!venues["dc0954_2121"])venues["dc0954_2121"]={"name": "21_21 DESIGN SIGHT", "url": "https://2121designsight.jp/", "desc": "デザインを切り口にした企画展。火曜休館・展示替え期間などを公式サイトで確認。"};
+if(!venues["dc0954_midtown"])venues["dc0954_midtown"]={"name": "東京ミッドタウン（六本木）", "url": "https://www.tokyo-midtown.com/jp/", "desc": "ショップやレストラン、美術館、庭園が集まる複合施設。店舗ごとに営業時間が異なる。"};
+if(!venues["dc0954_mori"])venues["dc0954_mori"]={"name": "森美術館", "url": "https://www.mori.art.museum/jp/", "desc": "六本木ヒルズ森タワーの現代アート美術館。展示会期・入館条件を公式サイトで確認。"};
+if(!venues["dc0954_hills"])venues["dc0954_hills"]={"name": "六本木ヒルズ", "url": "https://www.roppongihills.com/", "desc": "ショップ・レストラン・文化施設が集まる複合施設。店舗ごとの営業・混雑を確認。"};
+if(!venues["dc0954_tcv"])venues["dc0954_tcv"]={"name": "六本木ヒルズ展望台 東京シティビュー", "url": "https://tcv.roppongihills.com/jp/", "desc": "森タワー52階の屋内展望台。企画展やチケット、当日の眺望・営業時間を公式確認。"};
+const extra=[{"id":"dc0954_roppongi_art","area":"roppongi","weather":"sun","mood":"active","fixed":0,"title":"六本木｜美術館とデザインを巡る午後","intro":"展示内容を見比べて、最後は街のショップで感想を話す。","steps":[["11:00","dc0954_nact"],["13:30","dc0954_2121"],["16:00","dc0954_midtown"]],"tip":"各美術館は展示替え期間・火曜など休館日あり。館内展示は有料の場合がある。施設間の屋外移動に注意。","feesUnpriced":true,"evening":false},{"id":"dc0954_roppongi_rain","area":"roppongi","weather":"rain","mood":"relax","fixed":0,"title":"六本木｜雨の日のアート＆屋内ショップ","intro":"展示鑑賞と屋内の買い物を中心に、雨の日の移動を短くする。","steps":[["11:00","dc0954_suntory"],["13:30","dc0954_midtown"],["16:00","dc0954_mori"]],"tip":"東京ミッドタウンと六本木ヒルズ間には屋外移動がある。雨が強い場合は同じ建物内で過ごすなど変更を。美術館の展示日程を確認。","feesUnpriced":true,"evening":false},{"id":"dc0954_roppongi_night","area":"roppongi","weather":"sun","mood":"romantic","fixed":0,"title":"六本木｜16時からのショップ・アート・夜景","intro":"夕方のショップ散策から、夜の展望台へ向かう。","steps":[["16:00","dc0954_midtown"],["18:00","dc0954_hills"],["20:00","dc0954_tcv"]],"tip":"東京シティビューの最終入場・特別営業時間・チケットを公式確認。展望台からの夜景は天候次第。屋外移動と食事代は別途。","feesUnpriced":true,"evening":true}];
+for(const r of extra)if(!routes.some(x=>x.id===r.id))routes.push(r);
+labels.roppongi='六本木・乃木坂（東京）';
+const area=document.getElementById('area');if(area&&!area.querySelector('option[value="roppongi"]')){const o=document.createElement('option');o.value='roppongi';o.textContent=labels.roppongi;area.append(o);}
+const query=new URLSearchParams(location.search);if(area&&query.get('area')==='roppongi')area.value='roppongi';
+const previousRender=render;render=function(r){previousRender(r);if(r.feesUnpriced){for(const input of document.querySelectorAll('#budgetStops .spot-extra')){input.value='';input.placeholder='未算入';}updateBudget();}if(r.id.startsWith('dc0954_')){const link=document.getElementById('detailLink');if(link){link.href='roppongi-art-date.html';link.textContent='六本木3コースの詳しい案内を見る';}const warning=document.getElementById('resultTip');if(warning)warning.textContent+=' 料金未確認の施設は未算入です。公式情報を確認し、3件分の予算欄に手入力してください。';}};
+const target=routes.find(r=>r.id===query.get('route'));if(target&&target.id.startsWith('dc0954_')){if(area)area.value='roppongi';const weather=document.getElementById('weather');if(weather)weather.value=target.weather;const start=document.getElementById('startTime');if(start&&target.evening){const opts=[...start.options];const o=opts.find(x=>x.value==='16:00');if(o)start.value=o.value;}render(target);}
+})();

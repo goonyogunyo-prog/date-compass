@@ -1,0 +1,158 @@
+[
+  {
+    "id": "dc1156_tennozu_art",
+    "area": "shinagawa-tennozu",
+    "weather": "sun",
+    "mood": "relax",
+    "title": "天王洲｜美術館・画材・運河の散歩",
+    "intro": "倉庫街のアートと運河の景色を楽しむ日中コース。",
+    "steps": [
+      [
+        "11:00",
+        "dc1156_whatmuseum"
+      ],
+      [
+        "13:30",
+        "dc1156_pigment"
+      ],
+      [
+        "15:00",
+        "dc1156_boardwalk"
+      ]
+    ],
+    "tip": "WHAT MUSEUMの展示・入場条件とPIGMENTの営業日を公式確認。運河沿いは屋外で、悪天候時は中止。",
+    "fixed": 0,
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1156_tennozu_galleries",
+    "area": "shinagawa-tennozu",
+    "weather": "sun",
+    "mood": "active",
+    "title": "天王洲｜ギャラリーを巡るアート散策",
+    "intro": "現代アートと画材の世界に触れながら倉庫街を歩く。",
+    "steps": [
+      [
+        "11:00",
+        "dc1156_tac"
+      ],
+      [
+        "13:30",
+        "dc1156_whatmuseum"
+      ],
+      [
+        "16:00",
+        "dc1156_higashipark"
+      ]
+    ],
+    "tip": "TERRADA ART COMPLEXの各ギャラリーは展示会期・休廊日が異なる。公園への移動時間を見込む。",
+    "fixed": 0,
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1156_shinagawa_aqua",
+    "area": "shinagawa-tennozu",
+    "weather": "sun",
+    "mood": "romantic",
+    "title": "品川｜水族館から天王洲の水辺へ",
+    "intro": "品川駅前の水族館と緑の広場を経て運河沿いへ。",
+    "steps": [
+      [
+        "10:30",
+        "dc1156_aqua"
+      ],
+      [
+        "13:30",
+        "dc1156_season"
+      ],
+      [
+        "16:00",
+        "dc1156_boardwalk"
+      ]
+    ],
+    "tip": "品川駅周辺から天王洲への鉄道・バス等の移動が必要。水族館のチケット・ショー時間は公式確認。",
+    "fixed": 0,
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1156_tennozu_rain",
+    "area": "shinagawa-tennozu",
+    "weather": "rain",
+    "mood": "relax",
+    "title": "天王洲｜雨の日のアート3か所",
+    "intro": "屋内施設を中心に、展示と画材・カフェを楽しむ。",
+    "steps": [
+      [
+        "11:30",
+        "dc1156_whatmuseum"
+      ],
+      [
+        "14:00",
+        "dc1156_pigment"
+      ],
+      [
+        "16:00",
+        "dc1156_whatcafe"
+      ]
+    ],
+    "tip": "3施設間は屋外移動。WHAT CAFEは展示替え・貸切などで利用できない場合あり。開館・料金を事前確認。",
+    "fixed": 0,
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1156_tennozu_evening",
+    "area": "shinagawa-tennozu",
+    "weather": "sun",
+    "mood": "romantic",
+    "title": "天王洲｜16時から画材・運河・食事",
+    "intro": "夕方の画材店から水辺の景色、食事へ。",
+    "steps": [
+      [
+        "16:00",
+        "dc1156_pigment"
+      ],
+      [
+        "17:30",
+        "dc1156_boardwalk"
+      ],
+      [
+        "19:00",
+        "dc1156_tyharbor"
+      ]
+    ],
+    "tip": "PIGMENTの営業日・閉店時刻とレストランの営業・予約可否を公式確認。暗くなったら運河沿いの滞在を短めに。",
+    "fixed": 0,
+    "feesUnpriced": true,
+    "evening": true
+  },
+  {
+    "id": "dc1156_tennozu_evening2",
+    "area": "shinagawa-tennozu",
+    "weather": "sun",
+    "mood": "relax",
+    "title": "天王洲｜16時からアート・公園・ディナー",
+    "intro": "アートに触れ、運河沿いの景色を見て食事へ。",
+    "steps": [
+      [
+        "16:00",
+        "dc1156_whatcafe"
+      ],
+      [
+        "17:30",
+        "dc1156_higashipark"
+      ],
+      [
+        "19:00",
+        "dc1156_tyharbor"
+      ]
+    ],
+    "tip": "WHAT CAFEの展示・貸切・閉店時間を確認。公園は日没後に暗くなるため、安全を優先して短時間で移動。",
+    "fixed": 0,
+    "feesUnpriced": true,
+    "evening": true
+  }
+]

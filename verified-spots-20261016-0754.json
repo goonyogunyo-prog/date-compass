@@ -1,0 +1,156 @@
+[
+  {
+    "id": "dc0754_kichijoji_art",
+    "name": "武蔵野市立吉祥寺美術館",
+    "prefecture": "東京",
+    "area": "吉祥寺",
+    "category": "美術館",
+    "setting": "屋内",
+    "description": "駅近で版画や企画展を鑑賞。展示替え・休館日・料金は公式案内を確認。",
+    "official_url": "https://www.musashino.or.jp/museum/",
+    "verification": "公式サイト確認 2026-10-16"
+  },
+  {
+    "id": "dc0754_inokashira_zoo",
+    "name": "井の頭自然文化園",
+    "prefecture": "東京",
+    "area": "吉祥寺・井の頭",
+    "category": "自然・体験",
+    "setting": "屋外・屋内",
+    "description": "動物園と水生物園を楽しめる。両園間は徒歩移動が必要で、16時以降は入園不可。",
+    "official_url": "https://www.tokyo-zoo.net/inokashira/plan_your_visit/tickets/index.html",
+    "verification": "公式サイト確認 2026-10-16"
+  },
+  {
+    "id": "dc0754_ghibli",
+    "name": "三鷹の森ジブリ美術館",
+    "prefecture": "東京",
+    "area": "三鷹・吉祥寺",
+    "category": "美術館",
+    "setting": "屋内",
+    "description": "展示や短編映画を楽しむ美術館。チケットは正規の販売先で日時指定の購入条件を確認。",
+    "official_url": "https://www.ghibli-museum.jp/",
+    "verification": "公式サイト確認 2026-10-16"
+  },
+  {
+    "id": "dc0754_ikuta_green",
+    "name": "生田緑地",
+    "prefecture": "神奈川",
+    "area": "川崎・生田",
+    "category": "公園・散歩",
+    "setting": "屋外",
+    "description": "里山の緑と散策路を楽しむ。坂・階段や一部園路の通行止めに注意。",
+    "official_url": "https://www.ikutaryokuti.jp/",
+    "verification": "公式サイト確認 2026-10-16"
+  },
+  {
+    "id": "dc0754_minkaen",
+    "name": "川崎市立日本民家園",
+    "prefecture": "神奈川",
+    "area": "川崎・生田",
+    "category": "博物館",
+    "setting": "屋外・屋内",
+    "description": "移築した古民家を巡る野外博物館。雨天時は足元に注意、最終入園時刻も確認。",
+    "official_url": "https://www.nihonminkaen.jp/",
+    "verification": "公式サイト確認 2026-10-16"
+  },
+  {
+    "id": "dc0754_kawasaki_science",
+    "name": "かわさき宙と緑の科学館",
+    "prefecture": "神奈川",
+    "area": "川崎・生田",
+    "category": "博物館",
+    "setting": "屋内",
+    "description": "自然科学の展示とプラネタリウム。投影回・チケット・休館日を確認。",
+    "official_url": "https://www.nature-kawasaki.jp/",
+    "verification": "公式サイト確認 2026-10-16"
+  },
+  {
+    "id": "dc0754_andersen",
+    "name": "ふなばしアンデルセン公園",
+    "prefecture": "千葉",
+    "area": "船橋",
+    "category": "公園・庭園",
+    "setting": "屋外・屋内",
+    "description": "デンマークをイメージした公園。アスレチックや体験施設があり、通常は夕方までの営業。",
+    "official_url": "https://www.city.funabashi.lg.jp/shisetsu/kouenshiminnomori/0001/0001/0001/p011324.html",
+    "verification": "公式サイト確認 2026-10-16"
+  },
+  {
+    "id": "dc0754_sambanze_park",
+    "name": "ふなばし三番瀬海浜公園",
+    "prefecture": "千葉",
+    "area": "船橋・三番瀬",
+    "category": "海辺・散歩",
+    "setting": "屋外",
+    "description": "東京湾の干潟を望む公園。風・潮位・天候に注意し、路線バスの帰り便を確認。",
+    "official_url": "https://www.sambanze.jp/",
+    "verification": "公式サイト確認 2026-10-16"
+  },
+  {
+    "id": "dc0754_sambanze_museum",
+    "name": "ふなばし三番瀬環境学習館",
+    "prefecture": "千葉",
+    "area": "船橋・三番瀬",
+    "category": "博物館・体験",
+    "setting": "屋内",
+    "description": "三番瀬の自然を学べる体験型施設。開館日と展示の実施状況は公式確認。",
+    "official_url": "https://www.sambanze.jp/",
+    "verification": "公式サイト確認 2026-10-16"
+  },
+  {
+    "id": "dc0754_rose",
+    "name": "京成バラ園",
+    "prefecture": "千葉",
+    "area": "八千代",
+    "category": "公園・庭園",
+    "setting": "屋外",
+    "description": "季節のバラを楽しめる庭園。開花状況・入園料・営業日は季節で変動。",
+    "official_url": "https://www.keiseirose.co.jp/garden/",
+    "verification": "公式サイト確認 2026-10-16"
+  },
+  {
+    "id": "dc0754_funabashi_gallery",
+    "name": "船橋市民ギャラリー",
+    "prefecture": "千葉",
+    "area": "船橋駅周辺",
+    "category": "美術館",
+    "setting": "屋内",
+    "description": "駅から徒歩圏の市民ギャラリー。展示の開催有無と観覧条件は個別に確認。",
+    "official_url": "https://www.city.funabashi.lg.jp/shisetsu/bunka/0001/0003/0001/p011079.html",
+    "verification": "公式サイト確認 2026-10-16"
+  },
+  {
+    "id": "dc0754_seibuen",
+    "name": "西武園ゆうえんち",
+    "prefecture": "埼玉",
+    "area": "所沢",
+    "category": "遊園地・体験",
+    "setting": "屋外・屋内",
+    "description": "レトロな街並みとアトラクション。営業時間・チケット・休止情報は公式確認。",
+    "official_url": "https://www.seibuen-amusement-park.jp/",
+    "verification": "公式サイト確認 2026-10-16"
+  },
+  {
+    "id": "dc0754_kadokawa",
+    "name": "角川武蔵野ミュージアム",
+    "prefecture": "埼玉",
+    "area": "所沢・東所沢",
+    "category": "美術館",
+    "setting": "屋内",
+    "description": "本やアートを楽しむ複合文化施設。企画展・入場券の対象範囲は公式確認。",
+    "official_url": "https://kadcul.com/",
+    "verification": "公式サイト確認 2026-10-16"
+  },
+  {
+    "id": "dc0754_aviationpark",
+    "name": "所沢航空記念公園",
+    "prefecture": "埼玉",
+    "area": "所沢",
+    "category": "公園・散歩",
+    "setting": "屋外",
+    "description": "日本の航空発祥の地に整備された広い公園。園内の記念館は改修状況を別途確認。",
+    "official_url": "https://www.pref.saitama.lg.jp/shisetsu/koen/009.html",
+    "verification": "公式サイト確認 2026-10-16"
+  }
+]

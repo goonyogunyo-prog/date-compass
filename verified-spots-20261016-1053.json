@@ -1,0 +1,122 @@
+[
+  {
+    "id": "dc1053_sensoji",
+    "name": "浅草寺",
+    "prefecture": "東京",
+    "area": "浅草",
+    "category": "寺社・歴史",
+    "setting": "屋外・屋内",
+    "description": "雷門から本堂へ続く参道を散策。10月の本堂は17時閉堂。境内は混雑しやすい。",
+    "official_url": "https://www.senso-ji.jp/",
+    "verification": "公式施設・自治体・商店街サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc1053_asakusajinja",
+    "name": "浅草神社",
+    "prefecture": "東京",
+    "area": "浅草",
+    "category": "寺社・歴史",
+    "setting": "屋外",
+    "description": "浅草寺の隣にある神社。参拝と境内散策を楽しめる。社務所の受付時間は公式で確認。",
+    "official_url": "https://asakusajinja.jp/",
+    "verification": "公式施設・自治体・商店街サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc1053_nakamise",
+    "name": "浅草仲見世商店街",
+    "prefecture": "東京",
+    "area": "浅草",
+    "category": "商店街・買い物",
+    "setting": "屋外",
+    "description": "雷門から宝蔵門へ続く参道商店街。夕方以降は店が閉まり、シャッター絵を見られることも。",
+    "official_url": "https://t-navi.city.taito.lg.jp/spot/1002",
+    "verification": "公式施設・自治体・商店街サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc1053_shinnaka",
+    "name": "浅草新仲見世商店街",
+    "prefecture": "東京",
+    "area": "浅草",
+    "category": "商店街・買い物",
+    "setting": "屋内・屋外",
+    "description": "アーケードのある商店街。店舗ごとに営業時間・定休日が異なるため雨天時も要確認。",
+    "official_url": "https://www.asakusa-shinnaka.com/",
+    "verification": "公式施設・自治体・商店街サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc1053_tourismcenter",
+    "name": "浅草文化観光センター",
+    "prefecture": "東京",
+    "area": "浅草",
+    "category": "展望・観光案内",
+    "setting": "屋内・屋外",
+    "description": "雷門前の観光案内施設。展望テラスから街並みを眺められる。悪天候時のテラス利用に注意。",
+    "official_url": "https://t-navi.city.taito.lg.jp/about/informationcenter",
+    "verification": "公式施設・自治体・商店街サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc1053_crafts",
+    "name": "江戸たいとう伝統工芸館",
+    "prefecture": "東京",
+    "area": "浅草",
+    "category": "工芸・博物館",
+    "setting": "屋内",
+    "description": "伝統工芸品の展示を見学。第2・第4火曜など休館日があるので事前確認。",
+    "official_url": "https://craft.city.taito.lg.jp/kogeikan/",
+    "verification": "公式施設・自治体・商店街サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc1053_hanayashiki",
+    "name": "浅草花やしき",
+    "prefecture": "東京",
+    "area": "浅草",
+    "category": "遊園地・体験",
+    "setting": "屋外・屋内",
+    "description": "レトロな遊園地。営業時間は季節や天候で変動し、チケット・アトラクションは別途確認。",
+    "official_url": "https://www.hanayashiki.net/",
+    "verification": "公式施設・自治体・商店街サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc1053_engei",
+    "name": "浅草演芸ホール",
+    "prefecture": "東京",
+    "area": "浅草",
+    "category": "演芸・文化",
+    "setting": "屋内",
+    "description": "落語や漫才などの寄席。昼夜の番組・入場条件・特別興行の時間は公式で確認。",
+    "official_url": "https://www.asakusaengei.com/",
+    "verification": "公式施設・自治体・商店街サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc1053_sumidapark",
+    "name": "墨田区立隅田公園",
+    "prefecture": "東京",
+    "area": "浅草・向島",
+    "category": "公園・散歩",
+    "setting": "屋外",
+    "description": "隅田川沿いの公園。すみだリバーウォークで浅草側からアクセスできる。雨・強風時は無理をしない。",
+    "official_url": "https://sumidapark.jp/",
+    "verification": "公式施設・自治体・商店街サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc1053_kappabashi",
+    "name": "かっぱ橋道具街",
+    "prefecture": "東京",
+    "area": "浅草・かっぱ橋",
+    "category": "商店街・買い物",
+    "setting": "屋外",
+    "description": "食器・調理器具・食品サンプルなどの店が並ぶ道具街。店別の営業日・時間を事前確認。",
+    "official_url": "https://www.kappabashi.or.jp/",
+    "verification": "公式施設・自治体・商店街サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  }
+]

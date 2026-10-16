@@ -1,0 +1,262 @@
+[
+  {
+    "id": "dc1300_omiya_zoo",
+    "area": "omiya",
+    "weather": "sun",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "大宮｜小動物園・博物館・盆栽の街",
+    "intro": "公園の動物たちを見てから、埼玉の文化を楽しむ。",
+    "steps": [
+      [
+        "10:30",
+        "dc1300_omiyazoo"
+      ],
+      [
+        "12:30",
+        "dc1300_rekimin"
+      ],
+      [
+        "15:00",
+        "dc1300_bonsaihouse"
+      ]
+    ],
+    "tip": "動物園は月曜など休園あり。博物館は入館締切に注意。盆栽四季の家の休憩室利用条件を確認。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1300_omiya_history",
+    "area": "omiya",
+    "weather": "sun",
+    "mood": "active",
+    "fixed": 0,
+    "title": "大宮｜参道・郷土史・動物園",
+    "intro": "参道の文化に触れながら、午後は動物園へ。",
+    "steps": [
+      [
+        "10:30",
+        "dc1300_citymuseum"
+      ],
+      [
+        "12:30",
+        "omiyahikawa"
+      ],
+      [
+        "14:30",
+        "dc1300_omiyazoo"
+      ]
+    ],
+    "tip": "氷川神社の授与所・境内利用時間、動物園の16時閉園に注意。徒歩移動あり。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1300_omiya_bonsai",
+    "area": "omiya",
+    "weather": "sun",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "大宮｜盆栽・休憩・歴史博物館",
+    "intro": "盆栽文化と静かな博物館を組み合わせる。",
+    "steps": [
+      [
+        "10:30",
+        "omiya_bonsai_museum"
+      ],
+      [
+        "12:30",
+        "dc1300_bonsaihouse"
+      ],
+      [
+        "14:30",
+        "dc1300_rekimin"
+      ]
+    ],
+    "tip": "盆栽美術館は月曜など休館。展示替えと入場料金は公式確認。徒歩移動を見込む。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1300_omiya_green",
+    "area": "omiya",
+    "weather": "sun",
+    "mood": "active",
+    "fixed": 0,
+    "title": "大宮｜第二公園・第三公園・本園",
+    "intro": "緑の多い公園を巡る屋外散策。",
+    "steps": [
+      [
+        "10:30",
+        "dc1300_secondpark"
+      ],
+      [
+        "12:30",
+        "dc1300_thirdpark"
+      ],
+      [
+        "15:00",
+        "omiya_park"
+      ]
+    ],
+    "tip": "公園間の移動距離が長め。悪天候・暑さ・日没前後は中止または短縮。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1300_omiya_rain1",
+    "area": "omiya",
+    "weather": "rain",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "大宮｜雨の日の郷土史・宇宙",
+    "intro": "屋内の歴史と星空を組み合わせる。",
+    "steps": [
+      [
+        "10:00",
+        "dc1300_citymuseum"
+      ],
+      [
+        "12:30",
+        "dc1300_rekimin"
+      ],
+      [
+        "15:00",
+        "dc1300_space"
+      ]
+    ],
+    "tip": "施設間は屋外移動と交通機関利用が必要。プラネタリウムは投映回を先に確認。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1300_omiya_rain2",
+    "area": "omiya",
+    "weather": "rain",
+    "mood": "active",
+    "fixed": 0,
+    "title": "大宮｜雨の日の盆栽・歴史・星空",
+    "intro": "展示を中心に文化と科学を巡る。",
+    "steps": [
+      [
+        "10:00",
+        "omiya_bonsai_museum"
+      ],
+      [
+        "12:30",
+        "dc1300_rekimin"
+      ],
+      [
+        "15:00",
+        "dc1300_space"
+      ]
+    ],
+    "tip": "盆栽美術館・歴史博物館の休館日、宇宙劇場の投映時間を確認。移動には余裕を。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1300_urawa_art",
+    "area": "urawa",
+    "weather": "sun",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "浦和｜北浦和の美術と公園、街歩き",
+    "intro": "美術館のあと緑の公園で休み、浦和駅方面へ。",
+    "steps": [
+      [
+        "10:30",
+        "dc1300_momas"
+      ],
+      [
+        "12:30",
+        "dc1300_kitaurawapark"
+      ],
+      [
+        "15:00",
+        "dc1300_urawaart"
+      ]
+    ],
+    "tip": "北浦和から浦和へ鉄道移動が必要。2館の展示替え・休館日・最終入館に注意。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1300_urawa_city",
+    "area": "urawa",
+    "weather": "sun",
+    "mood": "active",
+    "fixed": 0,
+    "title": "浦和｜科学館・アート・ショッピング",
+    "intro": "宇宙科学を体験し、アートと買い物を楽しむ。",
+    "steps": [
+      [
+        "10:30",
+        "dc1300_youthspace"
+      ],
+      [
+        "13:30",
+        "dc1300_urawaart"
+      ],
+      [
+        "16:00",
+        "dc1300_urawaparco"
+      ]
+    ],
+    "tip": "科学館から浦和駅周辺への移動はバス等が必要。美術館の展示日・入館時間を確認。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1300_urawa_rain1",
+    "area": "urawa",
+    "weather": "rain",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "浦和｜雨の日の科学館・美術館・商業施設",
+    "intro": "屋内の展示を見てから買い物・食事へ。",
+    "steps": [
+      [
+        "10:00",
+        "dc1300_youthspace"
+      ],
+      [
+        "13:00",
+        "dc1300_urawaart"
+      ],
+      [
+        "15:30",
+        "dc1300_urawaparco"
+      ]
+    ],
+    "tip": "科学館から駅周辺は屋外・バス移動。各施設の休館日・営業を確認。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc1300_urawa_rain2",
+    "area": "urawa",
+    "weather": "rain",
+    "mood": "active",
+    "fixed": 0,
+    "title": "浦和｜雨の日のアート2館と街のショップ",
+    "intro": "美術館を巡り、駅近くの商業施設へ。",
+    "steps": [
+      [
+        "10:30",
+        "dc1300_momas"
+      ],
+      [
+        "13:30",
+        "dc1300_urawaart"
+      ],
+      [
+        "16:00",
+        "dc1300_urawaparco"
+      ]
+    ],
+    "tip": "北浦和と浦和の駅間移動が必要。美術館の展示替え・閉館時間に注意。",
+    "feesUnpriced": true,
+    "evening": false
+  }
+]

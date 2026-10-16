@@ -1,0 +1,184 @@
+[
+  {
+    "id": "dc0754_kichijoji_01",
+    "area": "kichijoji",
+    "weather": "sun",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "吉祥寺｜動物園・ジブリ・アート",
+    "intro": "公園の自然と美術館を一日で。",
+    "steps": [
+      [
+        "10:00",
+        "dc0754_inokashira_zoo"
+      ],
+      [
+        "13:00",
+        "dc0754_ghibli"
+      ],
+      [
+        "16:30",
+        "dc0754_kichijoji_art"
+      ]
+    ],
+    "tip": "ジブリ美術館は日時指定の正規チケットが必要。動物園の入園は16時まで。三鷹・吉祥寺間の移動時間を確認。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc0754_kichijoji_02",
+    "area": "kichijoji",
+    "weather": "sun",
+    "mood": "active",
+    "fixed": 0,
+    "title": "吉祥寺｜美術鑑賞から森へ",
+    "intro": "屋内アートから動物と映画の世界へ。",
+    "steps": [
+      [
+        "10:30",
+        "dc0754_kichijoji_art"
+      ],
+      [
+        "12:00",
+        "dc0754_inokashira_zoo"
+      ],
+      [
+        "15:00",
+        "dc0754_ghibli"
+      ]
+    ],
+    "tip": "ジブリ美術館の入館時刻に合わせて順序を調整。動物園は16時までの入園。雨なら動物園を無理に回らない。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc0754_ikuta_01",
+    "area": "ikuta",
+    "weather": "sun",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "生田緑地｜古民家・星空・里山",
+    "intro": "野外博物館からプラネタリウム、緑の散歩へ。",
+    "steps": [
+      [
+        "10:00",
+        "dc0754_minkaen"
+      ],
+      [
+        "13:00",
+        "dc0754_kawasaki_science"
+      ],
+      [
+        "15:30",
+        "dc0754_ikuta_green"
+      ]
+    ],
+    "tip": "プラネタリウムは投影時刻が決まっているため順序を調整。民家園は屋外展示が多く雨天は滑りやすい。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc0754_ikuta_02",
+    "area": "ikuta",
+    "weather": "sun",
+    "mood": "active",
+    "fixed": 0,
+    "title": "生田緑地｜散歩と文化施設を巡る",
+    "intro": "緑地を歩き、古民家と科学館で学ぶ。",
+    "steps": [
+      [
+        "10:00",
+        "dc0754_ikuta_green"
+      ],
+      [
+        "11:30",
+        "dc0754_minkaen"
+      ],
+      [
+        "14:30",
+        "dc0754_kawasaki_science"
+      ]
+    ],
+    "tip": "生田緑地は坂道と一部通行止めあり。科学館の投影は公式スケジュールで確認。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc0754_funabashi_01",
+    "area": "funabashi",
+    "weather": "sun",
+    "mood": "active",
+    "fixed": 0,
+    "title": "船橋｜三番瀬の自然と街のアート",
+    "intro": "海辺・環境学習・市民ギャラリーの3か所。",
+    "steps": [
+      [
+        "10:00",
+        "dc0754_sambanze_park"
+      ],
+      [
+        "11:30",
+        "dc0754_sambanze_museum"
+      ],
+      [
+        "15:00",
+        "dc0754_funabashi_gallery"
+      ]
+    ],
+    "tip": "海浜公園から船橋駅周辺はバス移動が必要。ギャラリーは開催中の展示がない日もあるため公式情報で確認し、無い場合は3件目を省略。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc0754_tokorozawa_01",
+    "area": "tokorozawa",
+    "weather": "sun",
+    "mood": "active",
+    "fixed": 0,
+    "title": "所沢｜遊園地・公園・本のミュージアム",
+    "intro": "遊園地を楽しみ、緑とアートで締める広域コース。",
+    "steps": [
+      [
+        "10:00",
+        "dc0754_seibuen"
+      ],
+      [
+        "14:00",
+        "dc0754_aviationpark"
+      ],
+      [
+        "16:30",
+        "dc0754_kadokawa"
+      ]
+    ],
+    "tip": "3施設は離れており鉄道・バス移動が必要。移動時間が長い場合は2施設に絞る。ミュージアムは企画展と最終入場を確認。",
+    "feesUnpriced": true,
+    "evening": false
+  },
+  {
+    "id": "dc0754_tokorozawa_02",
+    "area": "tokorozawa",
+    "weather": "sun",
+    "mood": "relax",
+    "fixed": 0,
+    "title": "所沢｜公園・本・レトロな街並み",
+    "intro": "広い公園から文化施設、遊園地へ。",
+    "steps": [
+      [
+        "09:30",
+        "dc0754_aviationpark"
+      ],
+      [
+        "11:30",
+        "dc0754_kadokawa"
+      ],
+      [
+        "14:30",
+        "dc0754_seibuen"
+      ]
+    ],
+    "tip": "西武園ゆうえんちは日によって閉園時刻が異なる。所沢市内の移動が長いため、最初に交通を確認。",
+    "feesUnpriced": true,
+    "evening": false
+  }
+]

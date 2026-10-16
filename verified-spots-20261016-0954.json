@@ -1,0 +1,86 @@
+[
+  {
+    "id": "dc0954_nact",
+    "name": "国立新美術館",
+    "prefecture": "東京",
+    "area": "六本木・乃木坂",
+    "category": "美術館",
+    "setting": "屋内",
+    "description": "企画展や公募展を鑑賞。展覧会ごとに料金・開催日が異なり、火曜など休館日を事前確認。",
+    "official_url": "https://www.nact.jp/",
+    "verification": "公式サイト確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc0954_suntory",
+    "name": "サントリー美術館",
+    "prefecture": "東京",
+    "area": "六本木・乃木坂",
+    "category": "美術館",
+    "setting": "屋内",
+    "description": "日本の美をテーマにした展覧会を鑑賞。展示替え期間・チケット・開館時間は展覧会ごとに公式確認。",
+    "official_url": "https://www.suntory.co.jp/sma/",
+    "verification": "公式サイト確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc0954_2121",
+    "name": "21_21 DESIGN SIGHT",
+    "prefecture": "東京",
+    "area": "六本木・乃木坂",
+    "category": "美術館・デザイン",
+    "setting": "屋内",
+    "description": "デザインを切り口にした企画展。火曜休館・展示替え期間などを公式サイトで確認。",
+    "official_url": "https://2121designsight.jp/",
+    "verification": "公式サイト確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc0954_midtown",
+    "name": "東京ミッドタウン（六本木）",
+    "prefecture": "東京",
+    "area": "六本木・乃木坂",
+    "category": "買い物・食事",
+    "setting": "屋内・屋外",
+    "description": "ショップやレストラン、美術館、庭園が集まる複合施設。店舗ごとに営業時間が異なる。",
+    "official_url": "https://www.tokyo-midtown.com/jp/",
+    "verification": "公式サイト確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc0954_mori",
+    "name": "森美術館",
+    "prefecture": "東京",
+    "area": "六本木・乃木坂",
+    "category": "美術館",
+    "setting": "屋内",
+    "description": "六本木ヒルズ森タワーの現代アート美術館。展示会期・入館条件を公式サイトで確認。",
+    "official_url": "https://www.mori.art.museum/jp/",
+    "verification": "公式サイト確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc0954_hills",
+    "name": "六本木ヒルズ",
+    "prefecture": "東京",
+    "area": "六本木・乃木坂",
+    "category": "買い物・食事",
+    "setting": "屋内・屋外",
+    "description": "ショップ・レストラン・文化施設が集まる複合施設。店舗ごとの営業・混雑を確認。",
+    "official_url": "https://www.roppongihills.com/",
+    "verification": "公式サイト確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc0954_tcv",
+    "name": "六本木ヒルズ展望台 東京シティビュー",
+    "prefecture": "東京",
+    "area": "六本木・乃木坂",
+    "category": "展望台",
+    "setting": "屋内",
+    "description": "森タワー52階の屋内展望台。企画展やチケット、当日の眺望・営業時間を公式確認。",
+    "official_url": "https://tcv.roppongihills.com/jp/",
+    "verification": "公式サイト確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  }
+]

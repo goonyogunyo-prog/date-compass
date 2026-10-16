@@ -1,0 +1,110 @@
+[
+  {
+    "id": "dc1156_aqua",
+    "name": "マクセル アクアパーク品川",
+    "prefecture": "東京",
+    "area": "品川駅周辺",
+    "category": "水族館",
+    "setting": "屋内",
+    "description": "品川駅高輪口側の水族館。入場料・当日の営業時間・ショーの開催時間を公式確認。",
+    "official_url": "https://www.aqua-park.jp/",
+    "verification": "施設公式・自治体・観光協会・地域公式サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc1156_season",
+    "name": "品川シーズンテラス",
+    "prefecture": "東京",
+    "area": "品川駅周辺",
+    "category": "公園・買い物",
+    "setting": "屋内・屋外",
+    "description": "緑のオープンスペースとショップ・レストラン。店舗ごとの営業・イベント開催を公式確認。",
+    "official_url": "https://shinagawa-st.jp/about/",
+    "verification": "施設公式・自治体・観光協会・地域公式サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc1156_whatmuseum",
+    "name": "WHAT MUSEUM",
+    "prefecture": "東京",
+    "area": "天王洲",
+    "category": "美術館",
+    "setting": "屋内",
+    "description": "現代アートと建築のミュージアム。展示替え・入館可能日・料金・最終入場を公式確認。",
+    "official_url": "https://warehouseofart.org/facilities/",
+    "verification": "施設公式・自治体・観光協会・地域公式サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc1156_whatcafe",
+    "name": "WHAT CAFE",
+    "prefecture": "東京",
+    "area": "天王洲",
+    "category": "ギャラリー・食事",
+    "setting": "屋内",
+    "description": "アート作品の展示とカフェを楽しむ。展示・貸切による営業変更や飲食料金を公式確認。",
+    "official_url": "https://cafe.warehouseofart.org/",
+    "verification": "施設公式・自治体・観光協会・地域公式サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc1156_pigment",
+    "name": "PIGMENT TOKYO",
+    "prefecture": "東京",
+    "area": "天王洲",
+    "category": "アート・買い物",
+    "setting": "屋内",
+    "description": "多彩な顔料・画材に触れられるショップ。ワークショップの開催と予約条件は公式確認。",
+    "official_url": "https://pigment.tokyo/",
+    "verification": "施設公式・自治体・観光協会・地域公式サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc1156_tac",
+    "name": "TERRADA ART COMPLEX",
+    "prefecture": "東京",
+    "area": "天王洲",
+    "category": "ギャラリー・美術",
+    "setting": "屋内",
+    "description": "複数のギャラリーが集まるアート施設。各ギャラリーの展示日程・入場条件は個別に確認。",
+    "official_url": "https://www.terrada-art-complex.com/",
+    "verification": "施設公式・自治体・観光協会・地域公式サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc1156_higashipark",
+    "name": "東品川海上公園",
+    "prefecture": "東京",
+    "area": "天王洲",
+    "category": "公園・散歩",
+    "setting": "屋外",
+    "description": "運河沿いのボードウォークや花壇のある公園。雨・強風・夜間の足元に注意。",
+    "official_url": "https://shinagawa-kanko.or.jp/spot/higasishinagawakaijoukouen/",
+    "verification": "施設公式・自治体・観光協会・地域公式サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc1156_boardwalk",
+    "name": "天王洲アイル・ボードウォーク",
+    "prefecture": "東京",
+    "area": "天王洲",
+    "category": "海辺・散歩",
+    "setting": "屋外",
+    "description": "天王洲の運河沿いを歩ける遊歩道。暗い時間帯や雨・強風では無理せず屋内へ。",
+    "official_url": "https://www.e-tennoz.com/",
+    "verification": "施設公式・自治体・観光協会・地域公式サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  },
+  {
+    "id": "dc1156_tyharbor",
+    "name": "T.Y.HARBOR",
+    "prefecture": "東京",
+    "area": "天王洲",
+    "category": "レストラン・食事",
+    "setting": "屋内・屋外",
+    "description": "運河沿いのブルワリーレストラン。飲食代・営業日・予約可否は公式サイトで確認。",
+    "official_url": "https://www.tysons.jp/tyharbor/",
+    "verification": "施設公式・自治体・観光協会・地域公式サイトを確認 2026-10-16",
+    "verified_at": "2026-10-16"
+  }
+]
