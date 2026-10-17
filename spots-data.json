@@ -1303,10 +1303,18 @@
     "area": "お台場",
     "category": "博物館",
     "setting": "屋内",
-    "description": "科学技術の展示を楽しめる。常設・企画展の内容は公式確認。",
-    "official_url": "https://www.miraikan.jst.go.jp/",
-    "verification": "公式・公的観光サイト確認",
-    "verified_at": "2026-10-16"
+    "description": "2026年10月1日〜2027年4月22日は全館休館中。2027年4月23日再開館予定。現時点ではデートの訪問先に選ばないでください。",
+    "official_url": "https://www.miraikan.jst.go.jp/news/general/202603244471.html",
+    "verification": "公式休館情報確認 2026-10-17",
+    "verified_at": "2026-10-17",
+    "admission": {
+      "type": "unavailable",
+      "label": "全館休館中のため入館不可（料金は未算入）",
+      "checked": "2026-10-17",
+      "source": "https://www.miraikan.jst.go.jp/news/general/202603244471.html"
+    },
+    "highlight": "再開館後に科学技術の展示を見学する候補。",
+    "admission_caution": "2027年4月22日まで全館休館。再開館予定は4月23日。"
   },
   {
     "id": "odaiba_hachitama",
@@ -3099,5 +3107,213 @@
     "official_url": "https://www.smt-cinema.com/sp/site/Kashiwanoha/",
     "verified_on": "2026-10-16",
     "verification": "2026-10-16 施設・自治体・観光協会の公式情報で実在確認"
+  },
+  {
+    "id": "ebisu-garden-place",
+    "name": "恵比寿ガーデンプレイス",
+    "prefecture": "東京",
+    "area": "恵比寿",
+    "category": "買い物・食事",
+    "setting": "屋内外",
+    "description": "時計広場・センター広場を歩き、ショップやカフェを選べる複合施設。店舗ごとの営業・料金は公式案内で確認。",
+    "official_url": "https://gardenplace.jp/",
+    "verification": "公式サイト確認 2026-10-17",
+    "admission": {
+      "type": "unverified",
+      "label": "共用部の基本入場料は公式料金表で未確認（店舗・イベント別料金）",
+      "checked": "2026-10-17",
+      "source": "https://gardenplace.jp/"
+    },
+    "highlight": "時計広場・センター広場・レストラン＆カフェ。",
+    "admission_caution": "イベントや店舗の利用には別料金がかかる場合があります。"
+  },
+  {
+    "id": "tokyo-photo-museum-ebisu",
+    "name": "東京都写真美術館",
+    "prefecture": "東京",
+    "area": "恵比寿",
+    "category": "美術館",
+    "setting": "屋内",
+    "description": "写真・映像をテーマにした展覧会を鑑賞。料金は2026/9/30〜2027/1/17開催の3階「日本の新進作家 vol.23」1展分。",
+    "official_url": "https://topmuseum.jp/exhibition/5423/",
+    "verification": "公式サイト確認 2026-10-17",
+    "admission": {
+      "type": "fixed",
+      "label": "3階企画展：一般700円／学生560円（2027/1/17まで）",
+      "checked": "2026-10-17",
+      "source": "https://topmuseum.jp/exhibition/5423/",
+      "adult": 700,
+      "student": 560
+    },
+    "highlight": "写真と映像表現を通じて、新しいイメージの可能性を探る展示。",
+    "admission_caution": "ほかの展示は別料金。学生証・開館日・会期を確認。"
+  },
+  {
+    "id": "tokyo-teien-art-museum",
+    "name": "東京都庭園美術館（本館展覧会）",
+    "prefecture": "東京",
+    "area": "白金台・目黒",
+    "category": "美術館",
+    "setting": "屋内",
+    "description": "旧朝香宮邸の建築と企画展を鑑賞。料金は2026/10/3〜12/20の「マリメッコ展」1展分。",
+    "official_url": "https://www.teien-art-museum.ne.jp/visit/ticket/",
+    "verification": "公式サイト確認 2026-10-17",
+    "admission": {
+      "type": "fixed",
+      "label": "マリメッコ展：一般1,400円／大学生1,120円（2026/12/20まで）",
+      "checked": "2026-10-17",
+      "source": "https://www.teien-art-museum.ne.jp/visit/ticket/",
+      "adult": 1400,
+      "student": 1120
+    },
+    "highlight": "アール・デコの建物と企画展を組み合わせて楽しむ。",
+    "admission_caution": "日時指定入場制。庭園のみのチケット・別企画の料金は異なります。"
+  },
+  {
+    "id": "nature-study-meguro",
+    "name": "国立科学博物館附属 自然教育園",
+    "prefecture": "東京",
+    "area": "白金台・目黒",
+    "category": "自然・散歩",
+    "setting": "屋外",
+    "description": "都心に残る自然林と池の周囲を散策。雨天時は足元に注意し、最終入園時刻を確認。",
+    "official_url": "https://ins.kahaku.go.jp/",
+    "verification": "公式サイト確認 2026-10-17",
+    "admission": {
+      "type": "fixed",
+      "label": "一般・大学生320円（公式表示）",
+      "checked": "2026-10-17",
+      "source": "https://ins.kahaku.go.jp/",
+      "adult": 320,
+      "student": 320
+    },
+    "highlight": "都市の中に残る自然の植生や季節の生き物を観察。",
+    "admission_caution": "公式サイトに大学生専用料金の記載はなく一般料金を適用。現金支払いの案内あり。"
+  },
+  {
+    "id": "meguro-parasitological-museum",
+    "name": "目黒寄生虫館",
+    "prefecture": "東京",
+    "area": "目黒",
+    "category": "博物館",
+    "setting": "屋内",
+    "description": "寄生虫をテーマにした標本・解説展示。個性的な学びのデートに。",
+    "official_url": "https://www.kiseichu.org/e-top",
+    "verification": "公式サイト確認 2026-10-17",
+    "admission": {
+      "type": "fixed",
+      "label": "入館無料（寄付歓迎）",
+      "checked": "2026-10-17",
+      "source": "https://www.kiseichu.org/e-top",
+      "adult": 0,
+      "student": 0
+    },
+    "highlight": "寄生虫の標本と研究紹介を見学。",
+    "admission_caution": "月・火休館が基本。祝日等で変動するため公式カレンダーを確認。"
+  },
+  {
+    "id": "meguro-art-museum",
+    "name": "目黒区美術館",
+    "prefecture": "東京",
+    "area": "目黒",
+    "category": "美術館",
+    "setting": "屋内",
+    "description": "目黒区の美術館で企画展を鑑賞。料金は2026/10/10〜11/15のコレクション展。",
+    "official_url": "https://mmat.jp/index.html",
+    "verification": "公式サイト確認 2026-10-17",
+    "admission": {
+      "type": "fixed",
+      "label": "コレクション展：一般700円／大高生550円（2026/11/15まで）",
+      "checked": "2026-10-17",
+      "source": "https://mmat.jp/index.html",
+      "adult": 700,
+      "student": 550
+    },
+    "highlight": "東京パックとその時代を紹介するコレクション展。",
+    "admission_caution": "展示替え後は料金が変わります。月曜等の休館日を確認。"
+  },
+  {
+    "id": "meguro-sky-garden",
+    "name": "目黒天空庭園",
+    "prefecture": "東京",
+    "area": "池尻大橋",
+    "category": "公園・景色",
+    "setting": "屋外",
+    "description": "大橋ジャンクションの屋上にあるループ状の庭園。天候が良ければ富士山方面を望める。",
+    "official_url": "https://www.gotokyo.org/en/spot/649/index.html",
+    "verification": "公式サイト確認 2026-10-17",
+    "admission": {
+      "type": "fixed",
+      "label": "入園無料（東京都公式観光案内）",
+      "checked": "2026-10-17",
+      "source": "https://www.gotokyo.org/en/spot/649/index.html",
+      "adult": 0,
+      "student": 0
+    },
+    "highlight": "ジャンクション上の回遊庭園と眺望。",
+    "admission_caution": "荒天時は閉園する場合あり。目黒区の当日案内を確認。"
+  },
+  {
+    "id": "shoto-museum-2026",
+    "name": "渋谷区立松濤美術館",
+    "prefecture": "東京",
+    "area": "渋谷・神泉",
+    "category": "美術館",
+    "setting": "屋内",
+    "description": "落ち着いた松濤の美術館。2026/9/19〜11/23の「路上、お邪魔ですか？」展を開催。",
+    "official_url": "https://shoto-museum.jp/exhibitions/213rojo/",
+    "verification": "公式サイト確認 2026-10-17",
+    "admission": {
+      "type": "fixed",
+      "label": "路上、お邪魔ですか？展：一般1,000円／大学生800円（2026/11/23まで）",
+      "checked": "2026-10-17",
+      "source": "https://shoto-museum.jp/exhibitions/213rojo/",
+      "adult": 1000,
+      "student": 800
+    },
+    "highlight": "路上の公共性をテーマに現代美術や歴史資料を鑑賞。",
+    "admission_caution": "展示期間外は料金が変わります。金曜以外は18時閉館が基本。"
+  },
+  {
+    "id": "cosmo-planetarium-shibuya",
+    "name": "コスモプラネタリウム渋谷",
+    "prefecture": "東京",
+    "area": "渋谷",
+    "category": "体験",
+    "setting": "屋内",
+    "description": "渋谷駅近くのプラネタリウム。解説付き星空投影や音楽プログラムから選べる。",
+    "official_url": "https://shibu-cul.jp/planetarium",
+    "verification": "公式サイト確認 2026-10-17",
+    "admission": {
+      "type": "fixed",
+      "label": "通常投影：大人800円（大学生区分なし）",
+      "checked": "2026-10-17",
+      "source": "https://shibu-cul.jp/planetarium",
+      "adult": 800,
+      "student": 800
+    },
+    "highlight": "解説員による星空案内やテーマ別の投影。",
+    "admission_caution": "特別投影は別料金。上映時刻・残席・休館日を公式で確認。"
+  },
+  {
+    "id": "asakura-house-daikanyama",
+    "name": "重要文化財 旧朝倉家住宅",
+    "prefecture": "東京",
+    "area": "代官山",
+    "category": "建築・歴史",
+    "setting": "屋内外",
+    "description": "大正期の邸宅と回遊式庭園を見学。畳の部屋や木造建築をゆっくり楽しむ。",
+    "official_url": "https://www.city.shibuya.tokyo.jp/shisetsu/bunka-shisetsu/asakura/asakura_00004.html",
+    "verification": "公式サイト確認 2026-10-17",
+    "admission": {
+      "type": "fixed",
+      "label": "一般500円（大学生専用料金なし）",
+      "checked": "2026-10-17",
+      "source": "https://www.city.shibuya.tokyo.jp/shisetsu/bunka-shisetsu/asakura/asakura_00004.html",
+      "adult": 500,
+      "student": 500
+    },
+    "highlight": "大正8年築の邸宅と四季の庭園。",
+    "admission_caution": "館内は靴を脱ぐため靴下必須。11〜2月は閉館時刻が早い。"
   }
 ]
